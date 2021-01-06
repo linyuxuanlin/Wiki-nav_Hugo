@@ -1,0 +1,406 @@
+- taxonomy: 我的小伙伴们
+  icon: linecons-star
+  links:
+    - title: Power's Wiki
+      description: 我的个人知识库
+      url: https://wiki-power.com/
+      logo: https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/logo-zip.png
+    - title: BUG-Hunter 的小星球
+      description: Crazy about coding. Enjoy life.
+      url: http://www.bug-hunter.site/
+      logo: https://baklibcdn.dagle.cn/1575974189616-myown_logo.png
+    - title: 快乐人口无 (๑ŐдŐ)b
+      description: 梦想就是做一个无忧无虑的快乐人！然后天天学习  自己喜欢的东西！
+      url: https://anshinintakaha.github.io/
+      logo: https://anshinintakaha.github.io/Myfavicon.png
+    - title: 佳佳鸽的博客
+      description:
+      url: https://blog.csdn.net/weixin_43793181
+      logo: https://g.csdnimg.cn/static/logo/favicon32.ico
+    - title: Rcxxx
+      description:
+      url: https://sinnammanyo.cn/
+      logo: https://sinnammanyo.cn/img/favicon.png
+    - title: unbinilium.me
+      description:
+      url: book.unbinilium.me
+      logo: https://book.unbinilium.me/favicon.png
+    - title: 非酋寻乡
+      description: 能力越大，责任越大
+      url: https://www.notion.so/fqjun/  Learning-28a0ac3bcc454c3badab2a106eae6125
+      logo: data:image/png;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
+    - title: WAI 科技社
+      description:
+      url: https://waitech.cn/
+      logo: https://www.waitech.cn/favicon.png
+
+- taxonomy: 设计
+  icon: linecons-pencil
+  list:
+    - term: 文章分享
+      links:
+        - title: Basics | 关于「色彩」你需要知道的
+          description: 关于色彩方面的一些常识和关于配色的一些建议
+          url: https://zhuanlan.zhihu.com/p/21439229?f3fb8ead20=88617da7cef1519331009f0aece619a4
+          logo: https://static.zhihu.com/static/favicon.ico
+        - title: Weibo to RSS
+          description: 微博转 RSS
+          url: https://rssfeed.today/weibo/
+          logo: https://rssfeed.today/weibo/favicon.ico
+
+
+
+- taxonomy: 软件开发
+  icon: linecons-pencil
+  list:
+    - term: 网站主题
+      links:
+        - title: Startpage
+          description: 看板 - Hugo 主题
+          url: https://themes.gohugo.io/hugo-startpage-theme/
+          logo: https://themes.gohugo.io/theme/hugo-startpage-theme/images/favicon.png
+        - title: DevResume
+          description: 简历 - Hugo 主题
+          url: https://themes.gohugo.io/hugo-devresume-theme/
+          logo: https://themes.gohugo.io/theme/hugo-devresume-theme/favicon.ico
+        - title: Gatsby Portfolio
+          description: 个人项目主页 - Gatsby 主题
+          url: https://portfolio.smakosh.com/
+          logo: https://portfolio.smakosh.com/icons-b9f7b61e18c4d8136d8c96f61341d02b/favicon.ico
+        - title: Creative portfolio
+          description: 信息流 - Hugo 主题
+          url: https://themes.gohugo.io/hugo-creative-portfolio-theme/
+          logo: https://themes.gohugo.io/theme/hugo-creative-portfolio-theme/img/favicon.png
+        - title: Docsy
+          description: 文档站 - Hugo 主题
+          url: https://themes.gohugo.io/docsy/
+          logo: https://www.docsy.dev/favicons/favicon-32x32.png
+    - term: 工具
+      links:
+        - title: OverAPI.com
+          description: 各种变成语言的常用语法一览表
+          url: https://overapi.com/
+          logo: https://overapi.com/favicon.ico
+
+
+
+- taxonomy: 工具
+  icon: linecons-pencil
+  list:
+    - term: 在线工具
+      links: 
+        - title: 各种转 RSS 服务
+          description: 知乎各种服务转 RSS
+          url: https://rss.lilydjwg.me/
+          logo: https://rss.lilydjwg.me/favicon.ico
+        - title: Weibo to RSS
+          description: 微博转 RSS
+          url: https://rssfeed.today/weibo/
+          logo: https://rssfeed.today/weibo/favicon.ico
+        - title: PDF24 Tools
+          description: 免费且易于使用的在线 PDF 工具
+          url: https://tools.pdf24.org/zh/1
+          logo: https://tools.pdf24.org/static/img/pdf24.png?  v=5cf19973
+    - term: 软件资源
+      links: 
+        - title: 史蒂芬周的博客
+          description: Mac 软件
+          url: http://www.sdifen.com/
+          logo: http://www.sdifen.com/favicon.ico
+ 
+- taxonomy: 优质博客
+  icon: linecons-mobile
+  links: 
+  - title: AresX's Blog
+    description: wubba lubba dub dub.
+    url: https://ares-x.com/
+    logo: https://ares-x.com/favicon.png
+  - title: 城中村群租房
+    description: 一些写得不错的文章
+    url: https://www.darmau.com/
+    logo: https://www.darmau.com/favicon.png
+  - title: read and go
+    description: 一些启发性的随想
+    url: https://unee.wang/
+    logo: https://unee.wang/favicon.ico
+  - title: 小土刀 2.0
+    description: 一些启发性的随想
+    url: https://wdxtub.com/
+    logo: https://wdxtub.com/favicon.ico
+  - title: FROYO's Blog
+    description: 把握现在，拥抱未来
+    url: http://www.izhuyue.com/
+    logo: http://www.izhuyue.com/favicon.ico
+  - title: 李笑来作品集
+    description: 人生的尴尬在于之前决策的时候并不可能有之后那么丰富的经验……
+    url: http://lixiaolai.com/
+    logo: http://lixiaolai.com/favicon.ico
+  - title: Peng Gu
+    description: Live with less. Share with more.
+    url: https://medium.com/@peng/latest
+    logo: https://medium.com/favicon.ico
+  - title: 土木坛子
+    description: 和光同尘，与时舒卷
+    url: https://tumutanzi.com/
+    logo: https://tumutanzi.com/favicon.ico
+  - title: 技术笔记 - 阳志平的网志
+    description: 致力于认知科学的产品开发、课程设计与科学传播。
+    url: http://www.yangzhiping.com/tech/
+    logo: https://www.yangzhiping.com/favicon.ico
+  - title: Jason
+    description: 很有意思的每日随想
+    url: https://atjason.com/
+    logo: https://atjason.com/favicon.ico?v=5.1.1
+  - title: 不如
+    description: 码农，程序猿，未来的昏析狮
+    url: http://ibruce.info/
+    logo: http://ibruce.info/favicon.ico
+  - title: 达夕博客
+    description: 关注工作效率/提高生产力/数字化工作/优秀软件
+    url: https://www.daxiblog.com/
+    logo: https://www.daxiblog.com/wp-content/uploads/2019/09/cropped-daxiblog-icon-2-32x32.png
+  - title: MADE(by)FRUTOS
+    description: 一些与 Arduino 相关的个人作品
+    url: https://madebyfrutos.wordpress.com/
+    logo: https://secure.gravatar.com/blavatar/4c37650c270c8ab4a5bfae4951d51e2d?s=32
+  - title: 0miker0's Blog
+    description: Arduino and various other projects
+    url: https://0miker0.wordpress.com/
+    logo: https://s0.wp.com/i/favicon.ico
+  - title: ARuFa の日記
+    description: 脑洞奇大的 DIY 博主
+    url: http://arufa.hatenablog.jp/
+    logo: http://arufa.hatenablog.jp/icon/favicon
+  - title: 稚晖的个人站
+    description: 十年饮冰，难凉热血
+    url: http://pengzhihui.xyz/
+    logo: http://pengzhihui.xyz/favicon.png
+  - title: cevinius
+    description: MobBob 机器人的作者
+    url: https://www.cevinius.com/
+    logo: https://www.cevinius.com/wp-content/uploads/2015/09/cropped-MobBobIcon-32x32.png
+  - title: Do U Find IT?
+    description: 一个有意思的嵌入式博主
+    url: http://www.chaosgoo.com/
+    logo: https://www.chaosgoo.com/images/Logo_sketch_bg_64px.png
+  - title: 小木・年轮
+    description: 一个有趣的技术博客
+    url: http://caiyao.- taxonomy/
+    logo: http://caiyao.- taxonomy/img/favicon.png
+  - title: 萨摩的部落格
+    description: 掉毛中……
+    url: https://i-meto.com/
+    logo: https://i-meto.com/favicon.ico
+  - title: reuixiy
+    description: 一个技术博客
+    url: https://io-oi.me/
+    logo: https://io-oi.me/favicon.ico
+  - title: Moorez
+    description: 一个技术博客
+    url: http://shenzekun.cn/
+    logo: http://shenzekun.cn/images/favicon.ico?v=5.0.2
+  - title: ookamiAntD's Blog
+    description: Easy codingeasy life.
+    url: https://yangbingdong.com/
+    logo: https://yangbingdong.com/favicon.png
+  - title: IT草根
+    description: 有意思的随想
+    url: http://codepub.cn/images/favicon-16x16.ico
+    logo: 
+  - title: 无垠
+    description: 飞翔的天空无限大
+    url: https://img.flyhigher.top/wp-content/uploads/2017/01/cropped-touch-1.png?imageView2/1/w/64/h/64/interlace/1/q/90#
+    logo: 
+  - title: 木木木木木
+    description: 有意思的技术博客
+    url: https://immmmm.com/
+    logo: https://immmmm.com/favicon.ico
+  - title: Colmugx's Blog
+    description: 让一切充满想象力
+    url: https://colmugx.github.io/blog/
+    logo: https://avatars2.githubusercontent.com/u/21327913?v=3&s=466
+  - title: 始终
+    description: 不忘初心
+    url: https://liam.page/
+    logo: https://liam.page/images/favicon/favicon-32x32.png
+  - title: 裂帛碎玉的想法
+    description: 有意思的技术博客
+    url: https://blog.vvzero.com/
+    logo: https://source.vvzero.com/favicon.ico
+  - title: MAYBEIWILL
+    description: 有意思的随想
+    url: https://maybeiwill.me/
+    logo: https://maybeiwill.me/favicon.ico
+  - title: 也而的博客
+    description: 在天涯和海角 放石头和葡萄
+    url: https://zoomyale.com/
+    logo: https://zoomyale.com/favicon.png
+  - title: Spencer's Blog
+    description: 阿巴阿巴 o ((>ω<)) o
+    url: https://blog.spencerwoo.com/
+    logo: https://blog.spencerwoo.com/assets/static/favicon.ac8d93a.d1135162e600804de5a368c5252e558c.png
+  - title: JeeH
+    description: Headers for framework- and platform-agnostic code
+    url: https://jeelabs.org/projects/jeeh/
+    logo: https://jeelabs.org/favicon.ico
+  - title: LT
+    description: Revolutionary Road
+    url: http://blog.davidrobot.com/
+    logo: http://blog.davidrobot.com/favicon.ico
+  - title: Marco's Blog
+    description: 嵌入式博主
+    url: http://scholtyssek.org/blog/
+    logo: 
+  - title: 林海草原
+    description: 一些有意思的随想
+    url: https://lhcy.org/
+    logo: https://s0.wp.com/i/favicon.ico
+  - title: 何世友的日志
+    description: 一些有意思的杂谈
+    url: https://ernest.me/
+    logo: https://ernest.me/favicon.ico
+  - title: Matrix67
+    description: 有趣的数学知识
+    url: http://www.matrix67.com/blog/
+    logo: https://s0.wp.com/i/favicon.ico
+  - title: Ja50n - go ahead
+    description: 想什么呢，一直往前走
+    url: https://blog.ulinkmega.com/
+    logo: https://blog.ulinkmega.com/img/favicon.ico
+  - title: hsp's Blog
+    description: 
+    url: https://www.adhsp.com/blog/
+    logo: 
+  - title: Liaoyuqin
+    description: Write drunk edit sober. I am a lovely pirate.
+    url: https://www.liaoyuqin.com/
+    logo: 
+  - title: 周良粥凉
+    description: 有意思的随想
+    url: https://blog.eric.ec/
+    logo: https://ericec.cn/favicon.ico
+  - title: 从良未遂
+    description: 有事就做事，没事叼根烟
+    url: https://www.ithmz.com/
+    logo: https://www.ithmz.com/wp-content/themes/Lonesome/static/images/favicon.ico
+  - title: INFORX
+    description: 技术博客
+    url: https://inforscan.com/
+    logo: https://inforscan.com/images/favicon-32x32-next.png?v=5.1.4
+  - title: MacTalk-池建强的随想录
+    description: 关注技术和人文
+    url: http://macshuo.com/
+    logo: http://macshuo.com/favicon.ico
+  - title: 阮一峰的网络日志
+    description: 技术博客
+    url: http://www.ruanyifeng.com/blog/
+    logo: http://www.ruanyifeng.com/favicon.ico
+  - title: MAKE IT REAL
+    description: 把漫威 DC 道具带到现实
+    url: https://www.hacksmith.tech/
+    logo: 
+
+- taxonomy: 嵌入式
+  icon: linecons-pencil
+  list:
+    - term: Arduino 相关
+      links: 
+        - title: Hackster.io
+          description: 一个嵌入式社区
+          url: https://www.hackster.io/projects?ref=topnav
+          logo: https://prod.hackster-cdn.online/assets/favicons/favicon-ccf4ed2b3c0b095f2ec85c69ff8444c38e47aff6b39dedcb934563e0fd7b60db.ico?v=zXX3Bm3lo3
+        - title: Arduino 实验室
+          description: 一个 Arduino 社区
+          url: http://arduino.nxez.com/
+          logo: https://arduino.nxez.com/favicon.ico
+        - title: Arduino·Pinterest
+          description: Pinterest 上 Arduino 相关的资源
+          url: https://www.pinterest.com/search/pins/?q=arduino&rs=typed&term_meta%5B%5D=arduino%7Ctyped
+          logo: https://s.pinimg.com/linksapp/style/images/favicon-54a5b2af.png
+        - title: 创客智造
+          description: 专注于开源硬件和软件的学习和应用.Arduino，Raspberry Pi，树莓派，ROS 机器人系统， Turtlebot，UAV 无人机
+          url: https://www.ncnynl.com/
+          logo: 
+        - title: Open Electronics
+          description: 一些 Arduino 项目
+          url: http://www.open-electronics.org/category/opensourceprojects/
+          logo: https://i1.wp.com/www.open-electronics.org/wp-content/uploads/2015/08/cropped-logo.jpeg?fit=32%2C32&ssl=1
+        - title: KEYSWEEPER
+          description: 基于Arduino 的键盘监听器
+          url: http://samy.pl/keysweeper/#key
+          logo: 
+        - title: Circuito
+          description: 拖动实物图生成 Arduino 程序
+          url: https://circuito.io/app
+          logo: https://www.circuito.io/static/images/favicon.png
+        - title: Learn·Adafruit
+          description: 一些 Arduino 项目
+          url: https://learn.adafruit.com/
+          logo: https://learn.adafruit.com/assets/favicon-0c79bd4bc582e6d4cf3afe417bd1e28120527c09d92c08a6464690c5bf6b85f4.ico
+        - title: RobotShop
+          description: 一些机器人相关的项目
+          url: https://www.robotshop.com/community/robots
+          logo: https://www.robotshop.com/favicon.ico
+        - title: bildr.blog
+          description: 收录一些 Arduino 项目
+          url: http://bildr.org
+          logo: 
+        - title: DF 创客社区
+          description: 
+          url: https://mc.dfrobot.com.cn/
+          logo: https://mc.dfrobot.com.cn/favicon.ico
+        - title: How To Mechatronics
+          description: Arduino 项目合集
+          url: http://howtomechatronics.com/category/projects/page/2/
+          logo: https://howtomechatronics.com/wp-content/uploads/2015/02/Favicon-3.png
+        - title: Hackaday.io
+          description: 创客社区
+          url: https://hackaday.io/projects
+          logo: https://hackaday.io/favicon.ico
+        - title: Keuwl Electronics
+          description: 蓝牙串口 App
+          url: http://www.keuwl.com/electronics.html
+          logo: http://www.keuwl.com/images/kicon1_96.png
+        - title: Sparkfun
+          description: Sparkfun Arduino 项目
+          url: https://learn.sparkfun.com/tutorials?page=1
+          logo: https://learn.sparkfun.com/favicon.ico
+    - term: 3D 打印相关
+      links: 
+        - title: 乐事可
+          description: 一个 3D 模型站
+          url: http://www.lskck.com/
+          logo: http://storage.lskck.com/wp-content/upgrade/2020/11/20201118124500708.png
+        - title: Youmagine
+          description: 一个 3D 模型站
+          url: https://www.youmagine.com/
+          logo: https://www.youmagine.com/assets/favicon-ec7bc35c69092ad8923c133ac1f372817df26c833562aab579ae2c6f9de4c3f1.ico
+
+- taxonomy: 电子书相关
+  icon: linecons-star
+  links: 
+    - title: SaltTiger
+      description: 每天一本编程书，每天进步一点点
+      url: https://salttiger.com/
+      logo: https://salttiger.com/favicon.ico
+    - title: PanSou 盘搜
+      description: 网盘资源，盘搜一下
+      url: http://www.pansou.com/
+      logo: http://www.pansou.com/favicon.ico
+    - title: IT eBooks
+      description: Download Read Use
+      url: http://it-ebooks.info/
+      logo: 
+    - title: PDFGet
+      description: 一些英文电子书
+      url: https://pdfget.com/
+      logo: https://pdfget.com/wp-content/uploads/2019/09/cropped-favicon-4-32x32.png
+    - title: 书伴
+      description: 为静心阅读而生
+      url: https://bookfere.com/
+      logo: https://bookfere.com/favicon.ico
+    - title: Clippings.io
+      description: 导出 Kindle 笔记
+      url: https://my.clippings.io/#
+      logo: https://my.clippings.io/favicon.ico
+
