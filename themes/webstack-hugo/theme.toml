@@ -11,5 +11,5 @@ features = []
 min_version = "1.0"
 
 [author]
-  name = "iplaycode"
+  name = "test"
   homepage = "https://iplaycode.github.io/nav/"
