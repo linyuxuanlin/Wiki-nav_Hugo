@@ -205,7 +205,7 @@
     logo: https://yangbingdong.com/favicon.png
   - title: IT草根
     description: 有意思的随想
-    url: http://codepub.cn/images/favicon-16x16.ico
+    url: http://codepub.cn/
     logo: 
   - title: 无垠
     description: 飞翔的天空无限大
@@ -382,27 +382,27 @@
     - title: SaltTiger
       description: 每天一本编程书，每天进步一点点
       url: https://salttiger.com/
-      logo: https://salttiger.com/favicon.ico
+      logo: https://salttiger.com/
     - title: PanSou 盘搜
       description: 网盘资源，盘搜一下
       url: http://www.pansou.com/
-      logo: http://www.pansou.com/favicon.ico
+      logo: http://www.pansou.com/
     - title: IT eBooks
       description: Download Read Use
       url: http://it-ebooks.info/
-      logo: 
+      logo: http://it-ebooks.info/
     - title: PDFGet
       description: 一些英文电子书
       url: https://pdfget.com/
-      logo: https://pdfget.com/wp-content/uploads/2019/09/cropped-favicon-4-32x32.png
+      logo: https://pdfget.com/
     - title: 书伴
       description: 为静心阅读而生
       url: https://bookfere.com/
-      logo: https://bookfere.com/favicon.ico
+      logo: https://bookfere.com/
     - title: Clippings.io
       description: 导出 Kindle 笔记
       url: https://my.clippings.io/#
-      logo: https://my.clippings.io/favicon.ico
+      logo: https://my.clippings.io/#
 
 - taxonomy: test
   icon: linecons-star
