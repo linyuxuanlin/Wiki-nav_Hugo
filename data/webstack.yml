@@ -267,8 +267,11 @@
           description: 收录一些 Arduino 项目
           url: http://bildr.org
         - title: DF 创客社区
-          description: 
+          description: 一个 Arduino 相关的社区
           url: https://mc.dfrobot.com.cn/
+        - title: The Custom Geek
+          description: 一些有趣的项目
+          url: http://thecustomgeek.com/
         - title: How To Mechatronics
           description: Arduino 项目合集
           url: http://howtomechatronics.com/category/projects/page/2/
@@ -287,14 +290,20 @@
     - term: 3D 打印相关
       links: 
         - title: 乐事可
-          description: 一个 3D 模型站
+          description: 3D 模型站
           url: http://www.lskck.com/
         - title: Youmagine
-          description: 一个 3D 模型站
+          description: 3D 模型站
+          url: https://www.youmagine.com/
+        - title: Cults 3D
+          description: 3D 模型站
+          url: https://cults3d.com/en/
+        - title: YouMagine 3D打印
+          description: 3D 模型站
           url: https://www.youmagine.com/
 
 
-- taxonomy: 电子书相关
+- taxonomy: 阅读
   icon: linecons-star
   links: 
     - title: SaltTiger
@@ -315,3 +324,12 @@
     - title: Clippings.io
       description: 导出 Kindle 笔记
       url: https://my.clippings.io/#
+
+
+- taxonomy: 音乐
+  icon: linecons-star
+  links: 
+    - title: MidiShow
+      description: MIDI 音乐搜索引擎
+      url: https://www.midishow.com/
+   
