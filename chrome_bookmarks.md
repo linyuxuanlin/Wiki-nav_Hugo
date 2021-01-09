@@ -4,149 +4,10 @@
   url: https://www.flickr.com/photos/ochre_jelly/page1
 
 
-
-
-
-
-- title: 维罗妮卡装甲
-  description:
-  url: http://oszine.com/mark-xliv-hulk-buster/
-
-- title: 假装是极客的博客-搜狐博客
-  description:
-  url: http://iteyes.blog.sohu.com/entry/
-
-- title: pixy df资料
-  description:
-  url: http://www.dfrobot.com.cn/goods-1115.html
-
-- title: The Mind of Bill Porter
-  description:
-  url: http://www.billporter.info/
-
-- title: JJrobots
-  description:
-  url: http://jjrobots.com/
-
-- title: arduino:libraries [极客工坊知识库]
-  description:
-  url: http://wiki.geek-workshop.com/doku.php?id=arduino:libraries
-
-- title: EasyEDA -基于浏览器的EDA软件:在线绘制原理图、仿真、PCB制作
-  description:
-  url: https://easyeda.com/
-
-- title: 将舵机改造为连续旋转电机 - 创客杂谈 - 知乎专栏
-  description:
-  url: https://zhuanlan.zhihu.com/p/21441816
-
-- title: 离线编译 intorobot
-  description:
-  url: http://bbs.intorobot.com/thread-962-1-1.html
-
-- title: Otto - build your own robot in two hours! - Hackster.io
-  description:
-  url: https://www.hackster.io/otto/otto-build-your-own-robot-in-two-hours-5f2a1c?ref=channel&ref_id=424_trending___&offset=15
-
-- title: Electronic Design Electronics Components Development Platform - ElecFreaks
-  description:
-  url: http://www.elecfreaks.com/page/1
-
-- title: 脑电波
-  description:
-  url: http://www.frontiernerds.com/brain-hack
-
-- title: Mini Quadruped - optimized for 9G servos by TheCase - Thingiverse
-  description:
-  url: http://www.thingiverse.com/thing:38159
-
-- title: 发现 - MakerCollider
-  description:
-  url: http://bbs.makercollider.com/?/
-
-- title: 摩图科技官网
-  description:
-  url: http://www.morpx.com/zn.index.html
-
-- title: Arduino Based Camera
-  description:
-  url: http://www.arducam.com/
-
-- title: 测试 Arduino 的省电模式 | LT
-  description:
-  url: http://davidrobot.com/2015/01/arduino_sleep_watchdog_test.html
-
-- title: IntoRobot
-  description:
-  url: http://www.intorobot.com/
-
-- title: Arduino 模块wiki - 文集 - 简书
-  description:
-  url: https://www.jianshu.com/nb/35444314
-
-- title: bildr » Controlling 2 motors with the TB6612FNG + Arduino
-  description:
-  url: http://bildr.org/2012/04/tb6612fng-arduino/#
-
-- title: 如何使用Arduino编程四足机器人
-  description:
-  url: https://makezine.com/2016/11/22/robot-quadruped-arduino-program/
-
-- title: https://42bots.com
-  description:
-  url: https://42bots.com/
-
-- title: Circuito
-  description:
-  url: https://circuito.io/
-
-- title: Build yours | InMoov
-  description:
-  url: http://inmoov.fr/build-yours/
-
-- title: Micro Robot arm (9g Micro Servo) see video by bentommye - Thingiverse
-  description:
-  url: http://www.thingiverse.com/thing:34829
-
-- title: Super Light Quadcopter by joohansson - Thingiverse
-  description:
-  url: http://www.thingiverse.com/thing:681232
-
-- title: two wheel Robot 
-  description:
-  url: http://www.thingiverse.com/thing:1230244
-
 - title: 123D Circuits
   description:
   url: https://123d.circuits.io/circuits/1531676-the-unnamed-circuit/edit#breadboard
 
-- title: ATTINY
-  description:
-  url: http://www.geek-workshop.com/forum.php?mod=viewthread&tid=959&highlight=%C8%E7%BA%CE%CB%F5%D0%A1%CE%D2%C3%C7%B5%C4Arduino%CF%EE%C4%BF
-
-- title: M3D collection - Thingiverse
-  description:
-  url: http://www.thingiverse.com/sopo/collections/m3d
-
-- title: AxiDraw - Evil Mad Scientist Wiki
-  description:
-  url: http://wiki.evilmadscientist.com/Axidraw
-
-- title: 自制微型激光切割
-  description:
-  url: http://www.dfrobot.com.cn/community/thread-1512-1-1.html
-
-- title: 霍尔传感器
-  description:
-  url: http://playground.arduino.cc/Code/HallEffect
-
-- title: 传感器 人体秤50kg 称重传感器 电阻应变半桥式传感器50kg-淘宝网
-  description:
-  url: https://item.taobao.com/item.htm?spm=a1z09.2.0.0.siyiT4&id=521777330600&_u=51f9oolr2f7c
-
-- title: Arduino 专区 - 开发工具 - 一板网电子技术论坛
-  description:
-  url: https://www.yiboard.com/forum-70-1.html
 
 - title: 创客导航 - 为了更快地开始创造
   description:
@@ -154,117 +15,27 @@
 
 - title: 树莓派
 
-- title: Raspberry Pi Projects
-  description:
-  url: http://www.instructables.com/id/Raspberry-Pi-Projects/
 
-- title: Motion Detection Alarm System - All
-  description:
-  url: http://www.instructables.com/id/Motion-Detection-Alarm-System/?ALLSTEPS
-
-- title: Home - Rapiro
-  description:
-  url: http://www.rapiro.com/
 
 - title: 树莓派实验室
   description:
   url: http://shumeipai.nxez.com/
 
-- title: zp blog-树莓派
+- title: 树莓派+Kali Linux：搭建一个偷WiFi密码的黑客站 | 雷锋网
   description:
-  url: http://zpblog.cn/tags-%E6%A0%91%E8%8E%93%E6%B4%BE.html
-
-- title: QQ邮箱 - 收件箱
-  description:
-  url: https://mail.qq.com/cgi-bin/frame_html?sid=owxR_Hf8QGfzCDlh&r=c28f38f4405363d32adfa84e62cacc0c
-
-- title: 用树莓派DIY一个智能家居服务器 | 树莓派实验室
-  description:
-  url: http://shumeipai.nxez.com/2016/06/26/raspberry-pi-diy-with-a-smart-home-server.html
-
-- title: zp blog-Just zp blog …
-  description:
-  url: http://zpblog.cn/
-
-- title: 树莓派实验室 | Raspberry Pi中文资讯站，提供丰富的树莓派使用教程和DIY资讯 | Page 4
-  description:
-  url: https://www.raspberrypi.org/
-
-- title: 树莓派 - 极客范 - GeekFan.net
-  description:
-  url: http://www.geekfan.net/category/hardware/raspberry-pi-hardware/
-
-- title: 树莓派教程—树莓派及兼容板论坛—DF创客社区
-  description:
-  url: http://www.dfrobot.com.cn/community/forum.php?mod=viewthread&tid=11766&highlight=%E6%A0%91%E8%8E%93%E6%B4%BE%E6%95%99%E7%A8%8B
-
-- title: robopeak/rpusbdisp: Drivers and Tools for RoboPeak Mini USB Display Project
-  description:
-  url: https://github.com/robopeak/rpusbdisp
-
-- title: Robopeak mini USB显示器 树莓派 pcduino cubieboard 兼容-淘宝网
-  description:
-  url: https://item.taobao.com/item.htm?spm=a230r.1.14.1.stM3Md&id=36403290121&_u=4lhkqoaf4e
-
-- title: RoboPeak Mini USB显示屏粉墨登场 – RoboPeak
-  description:
-  url: http://www.robopeak.com/blog/?p=377
-
-- title: Robopeak mini USB显示器_树莓派模块_树莓派系列_Arduino/树莓派/Intel_DFRobot：创客，创客教育和机器人的造物梦工厂
-  description:
-  url: http://www.dfrobot.com.cn/goods-826.html
-
-- title: Mac OS X上使用USB转串口线连接树莓派 | 树莓派实验室
-  description:
-  url: http://shumeipai.nxez.com/2015/09/06/mac-os-x-rpi-serial-connection.html
-
-- title: Linux 下自建Anki服务器 - 枇杷树的文章 - 知乎专栏
-  description:
-  url: https://zhuanlan.zhihu.com/p/25187159?utm_source=qq&utm_medium=social
-
-- title: 使用SSH - 极客范 - GeekFan.net
-  description:
-  url: http://www.geekfan.net/9128/
+  url: http://www.leiphone.com/news/201511/8MvqtOU2gQajRWTx.html
 
 - title: 树莓派+Kali Linux：搭建一个偷WiFi密码的黑客站 | 雷锋网
   description:
   url: http://www.leiphone.com/news/201511/8MvqtOU2gQajRWTx.html
 
-- title: Lifehacker - Tips and downloads for getting things done
-  description:
-  url: http://lifehacker.com/
-
-- title: 有哪些对树莓派的有趣改造和扩展应用？ - 知乎
-  description:
-  url: https://www.zhihu.com/question/20697024
-
-- title: Kindle  Pi!
-  description:
-  url: http://www.ponnuki.net/2012/09/kindleberry-pi/
-
-- title: Adafruit Learning System
-  description:
-  url: https://learn.adafruit.com/category/raspberry-pi#
-
-- title: picamera | Raspberry Pi Learning Resources
-  description:
-  url: https://www.raspberrypi.org/learning/getting-started-with-picamera/worksheet/
-
 - title: 树莓派中文站
   description:
   url: http://www.52pi.net/?cat=7
 
-- title: Minecraft Pi | Raspberry Pi Learning Resources
-  description:
-  url: https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/worksheet/
 
-- title: (SKU:DFR0413)0.96 Inch OLED Display Module For Raspberry Pi - DFRobot Product Wiki
-  description:
-  url: http://wiki.dfrobot.com.cn/index.php?title=(SKU:DFR0413)0.96_Inch_OLED_Display_Module_For_Raspberry_Pi#.E6.9B.B4.E5.A4.9A
+---
 
-- title: 树莓派重装系统 - Not-Bad - 博客园
-  description:
-  url: http://www.cnblogs.com/farewell-farewell/p/6136368.html
 
 - title: 创客智造
   description:
