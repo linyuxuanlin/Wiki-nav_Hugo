@@ -411,25 +411,3 @@
       description: 每天一本编程书，每天进步一点点
       url: https://salttiger.com/
       logo: https://www.google.cn/s2/favicons?sz=64&domain=https://salttiger.com/
-    - title: PanSou 盘搜
-      description: 网盘资源，盘搜一下
-      url: http://www.pansou.com/
-      logo: https://www.google.cn/s2/favicons?sz=64&domain=www.pansou.com
-    - title: IT eBooks
-      description: Download Read Use
-      url: http://it-ebooks.info/
-      logo: https://www.google.cn/s2/favicons?sz=64&domain=it-ebooks.info
-    - title: PDFGet
-      description: 一些英文电子书
-      url: https://pdfget.com/
-      logo: https://www.google.cn/s2/favicons?sz=64&domain=pdfget.com
-    - title: 书伴
-      description: 为静心阅读而生
-      url: https://bookfere.com/
-      logo: https://www.google.cn/s2/favicons?sz=64&domain=bookfere.com
-    - title: Clippings.io
-      description: 导出 Kindle 笔记
-      url: https://my.clippings.io/#
-      logo: https://www.google.cn/s2/favicons?sz=64&domain=my.clippings.io#
-
-
