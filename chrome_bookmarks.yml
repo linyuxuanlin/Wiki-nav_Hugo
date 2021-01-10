@@ -33,112 +33,40 @@
   description:
   url: http://www.52pi.net/?cat=7
 
-
----
-
-
-
 - title: 创客智造
   description:
   url: http://www.ncnynl.com/
+
 
 - title: 树莓派上手常见问题处理[转] | 树莓派实验室
   description:
   url: http://shumeipai.nxez.com/2015/08/17/raspberry-pi-troubleshooting.html
 
-- title: 用树莓派做个无线音乐台基站 – OSZINE | 发现技术之美
-  description:
-  url: http://oszine.com/using-pifm-to-transmit-audio-on-any/
 
-- title: 用树莓派打造翻译机 – OSZINE | 发现技术之美
-  description:
-  url: http://oszine.com/universal-translator/
 
-- title: 《树莓派 入手折腾记》系列文章索引 | LT
-  description:
-  url: http://davidrobot.com/2015/07/raspberry-pi-model-b-plus-index.html
 
-- title: RS4 - Self balancing Raspberry Pi OpenCV image processing Robot
-  description:
-  url: http://roboticssamy.blogspot.jp/2013/11/rs4-robot.html
+---
 
-- title: 可以用于安全研究的公开社工库有哪些？ - IT程序员 翁笔
-  description:
-  url: https://www.wengbi.com/thread_20044_1.html
 
-- title: CUPS 云打印
-  description:
-  url: https://192.168.1.113:631/
 
-- title: 3D
 
-- title: thingiverse
-  description:
-  url: http://www.thingiverse.com/
 
-- title: 3D Hubs
-  description:
-  url: https://www.3dhubs.com/3d-printable-content
 
-- title: Cults 3D
-  description:
-  url: https://cults3d.com/en
 
-- title: yeggi 3D
-  description:
-  url: http://www.yeggi.com/
 
-- title: leFabShop 3D
-  description:
-  url: http://www.lefabshop.fr/#contact
 
-- title: YouMagine 3D打印
-  description:
-  url: https://www.youmagine.com/
 
-- title: dfrobot
-  description:
-  url: http://www.dfrobot.com.cn/community/thread-12597-1-1.html
 
-- title: instructables
-  description:
-  url: http://www.instructables.com/tag/type-id/category-technology/channel-3D-Printing/
 
-- title: Build yours | InMoov
-  description:
-  url: http://inmoov.fr/build-yours/
 
-- title: Overlord 系列打印机固件升级方法-DF创客社区-分享创造的喜悦
-  description:
-  url: http://www.dfrobot.com.cn/community/forum.php?mod=viewthread&tid=12777&highlight=overlord
 
-- title: 小不点3D的帖子
-  description:
-  url: http://www.dfrobot.com.cn/community/space-uid-721954.html
 
-- title: Designs by David Mussaffi on YouMagine
-  description:
-  url: https://www.youmagine.com/davidmus/designs
 
-- title: 建筑
-  description:
-  url: http://cults3d.com/en/users/LDIbarra/creations
 
-- title: p3d.in 
-  description:
-  url: http://p3d.in/
 
-- title: Sketchfab 
-  description:
-  url: https://sketchfab.com/
 
-- title: Cura视频教程【Frank出品】-DF创客社区-分享创造的喜悦
-  description:
-  url: http://www.dfrobot.com.cn/community/thread-12592-1-1.html
 
-- title: MyMiniFactory 
-  description:
-  url: https://www.myminifactory.com/
+
 
 - title: 零件
   description:

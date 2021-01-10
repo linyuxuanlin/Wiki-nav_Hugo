@@ -24,7 +24,7 @@
       url: https://www.notion.so/fqjun/  Learning-28a0ac3bcc454c3badab2a106eae6125
     - title: WAI 科技社
       description:
-      url: https://waitech.cn/
+      url: https://www.waitech.cn/
 
 
 - taxonomy: 优质博客
@@ -86,7 +86,7 @@
     url: http://www.chaosgoo.com/
   - title: 小木・年轮
     description: 一个有趣的技术博客
-    url: http://caiyao.- taxonomy/
+    url: http://caiyao.name/
   - title: 萨摩的部落格
     description: 掉毛中……
     url: https://i-meto.com/
@@ -132,9 +132,6 @@
   - title: LT
     description: Revolutionary Road
     url: http://blog.davidrobot.com/
-  - title: Marco's Blog
-    description: 嵌入式博主
-    url: http://scholtyssek.org/blog/
   - title: 林海草原
     description: 一些有意思的随想
     url: https://lhcy.org/
@@ -155,7 +152,7 @@
     url: https://www.liaoyuqin.com/
   - title: 周良粥凉
     description: 有意思的随想
-    url: https://blog.eric.ec/
+    url: https://ericec.cn/
   - title: 从良未遂
     description: 有事就做事，没事叼根烟
     url: https://www.ithmz.com/
@@ -223,7 +220,7 @@
           url: https://rssfeed.today/weibo/
         - title: PDF24 Tools
           description: 免费且易于使用的在线 PDF 工具
-          url: https://tools.pdf24.org/zh/1
+          url: https://tools.pdf24.org/zh/
     - term: 软件资源
       links: 
         - title: 史蒂芬周的博客
@@ -253,7 +250,7 @@
           url: http://www.open-electronics.org/category/opensourceprojects/
         - title: KEYSWEEPER
           description: 基于Arduino 的键盘监听器
-          url: http://samy.pl/keysweeper/#key
+          url: https://samy.pl/keysweeper/
         - title: Circuito
           description: 拖动实物图生成 Arduino 程序
           url: https://circuito.io/app
@@ -289,18 +286,34 @@
           url: https://www.hacksmith.tech/
     - term: 3D 打印相关
       links: 
+        - title: Thingiverse
+          description: 3D 模型站
+          url: http://www.thingiverse.com/
         - title: 乐事可
           description: 3D 模型站
           url: http://www.lskck.com/
-        - title: Youmagine
+        - title: YouMagine
           description: 3D 模型站
           url: https://www.youmagine.com/
         - title: Cults 3D
           description: 3D 模型站
           url: https://cults3d.com/en/
-        - title: YouMagine 3D打印
+        - title: yeggi
           description: 3D 模型站
-          url: https://www.youmagine.com/
+          url: http://www.yeggi.com/
+        - title: InMoov
+          description: 开源 3D 打印人形机器人
+          url: http://inmoov.fr/build-yours/
+        - title: p3d.in 
+          description: 在线预览 3D 模型
+          url: http://p3d.in/
+        - title: Sketchfab 
+          description: 在线预览 3D 模型
+          url: https://sketchfab.com/
+        - title: MyMiniFactory 
+          description: 3D 微缩模型资源站
+          url: https://www.myminifactory.com/
+
 
 
 - taxonomy: 阅读
