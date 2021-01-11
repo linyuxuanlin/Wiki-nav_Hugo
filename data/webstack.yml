@@ -284,6 +284,9 @@
         - title: MAKE IT REAL
           description: 把漫威 DC 道具带到现实
           url: https://www.hacksmith.tech/
+        - title: Madox.NET
+          description: 一个嵌入式博客
+          url: http://www.madox.net/blog/ 
     - term: 3D 打印相关
       links: 
         - title: Thingiverse
@@ -316,6 +319,20 @@
         - title: 3D Content Central
           description: 零件、装配体资源库
           url: http://www.3dcontentcentral.com.cn/
+        - title: most3D
+          description: 3D 模型站
+          url: https://www.most3d.cn/models/
+        - title: Pinshape
+          description: 3D 模型站
+          url: https://pinshape.com/
+        - title: 3DaGoGo
+          description: 3D 模型站
+          url: https://www.3dagogo.com/
+        - title: All3DP
+          description: 3D 模型站
+          url: https://all3dp.com/printables/
+
+
 
 
 
