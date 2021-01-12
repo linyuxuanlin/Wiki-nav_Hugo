@@ -28,7 +28,7 @@
 
 
 - taxonomy: 优质博客
-  icon: linecons-mobile
+  icon: linecons-note
   links: 
   - title: AresX's Blog
     description: wubba lubba dub dub.
@@ -180,7 +180,7 @@
 
 
 - taxonomy: 软件开发
-  icon: linecons-pencil
+  icon: linecons-desktop
   list:
     - term: 网站主题
       links:
@@ -216,7 +216,7 @@
 
 
 - taxonomy: 工具
-  icon: linecons-pencil
+  icon: linecons-cog
   list:
     - term: 在线工具
       links: 
@@ -240,7 +240,7 @@
 
 
 - taxonomy: 嵌入式
-  icon: linecons-pencil
+  icon: linecons-params
   list:
     - term: STM32
       links: 
@@ -375,7 +375,7 @@
 
 
 - taxonomy: 阅读
-  icon: linecons-star
+  icon: linecons-inbox
   links: 
     - title: SaltTiger
       description: 每天一本编程书，每天进步一点点
@@ -398,7 +398,7 @@
 
 
 - taxonomy: 音乐
-  icon: linecons-star
+  icon: linecons-music
   links: 
     - title: MidiShow
       description: MIDI 音乐搜索引擎
@@ -407,7 +407,7 @@
 
 
 - taxonomy: 电路设计
-  icon: linecons-pencil
+  icon: linecons-beaker
   list:
     - term: 学习资源
       links: 
