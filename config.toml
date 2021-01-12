@@ -6,6 +6,3 @@ preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
 copyright = ""
-[params]
-  author = "Power"
-  description = "a man"
