@@ -162,7 +162,9 @@
   - title: 阮一峰的网络日志
     description: 技术博客
     url: http://www.ruanyifeng.com/blog/
-
+  - title: 千橙工坊
+    description: 做有温度的金融科技
+    url: https://www.qiancheng.me/
 
 - taxonomy: 设计
   icon: linecons-pencil
