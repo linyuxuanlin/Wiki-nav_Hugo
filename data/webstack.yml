@@ -242,7 +242,15 @@
 - taxonomy: 嵌入式
   icon: linecons-pencil
   list:
-    - term: Arduino 相关
+    - term: STM32
+      links: 
+        - title: 精品 STM32 项目合集
+          description: 电子森林整理的嵌入式项目（普遍较旧）
+          url: https://www.eetree.cn/doc/detail/1089
+        - title: 发明控 · bilibili
+          description: ESP8266 / 嵌入式 / 树莓派项目
+          url: https://space.bilibili.com/14010836?spm_id_from=333.788.b_765f7570696e666f.1
+    - term: Arduino
       links: 
         - title: Hackster.io
           description: 一个嵌入式社区
@@ -301,6 +309,30 @@
         - title: mobilerobots.pl
           description: 各种轮式机器人
           url: http://mobilerobots.pl/
+        - title: Zak's Electronics Blog ~*
+          description: 很多有趣的电路设计 / 嵌入式项目
+          url: https://blog.zakkemble.net/
+        - title: DIY Digital Wristwatch
+          description: 基于 Arduino 的智能手表
+          url: https://blog.zakkemble.net/diy-digital-wristwatch/
+        - title: ThingPulse/esp8266-weather-station
+          description: 基于 ESP8266 的气象站
+          url: https://github.com/ThingPulse/esp8266-weather-station
+        - title: A Beginner's Guide to the ESP8266
+          description: 很详细的 ESP8266 教程
+          url: https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html
+        - title: 0miker0's Blog
+          description: 一些与 ESP8266/OLED 相关的项目
+          url: https://0miker0.wordpress.com
+        - title: 
+          description: 
+          url: 
+        - title: 
+          description: 
+          url: 
+        - title: 
+          description: 
+          url: 
     - term: 3D 打印相关
       links: 
         - title: Thingiverse
