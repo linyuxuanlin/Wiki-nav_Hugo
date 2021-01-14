@@ -201,6 +201,9 @@
           url: https://themes.gohugo.io/docsy/
     - term: 工具
       links:
+        - title: Jamstack
+          description: 静态网站的参考（包括各类生成器和 CMS）
+          url: https://jamstack.org/
         - title: OverAPI.com
           description: 各种变成语言的常用语法一览表
           url: https://overapi.com/
