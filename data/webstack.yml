@@ -169,14 +169,16 @@
 - taxonomy: 设计
   icon: linecons-pencil
   list:
+    - term: 工具
+      links:
+        - title: Vector Magic
+          description: 位图转矢量图
+          url: https://vectormagic.com/
     - term: 文章分享
       links:
         - title: Basics | 关于「色彩」你需要知道的
           description: 关于色彩方面的一些常识和关于配色的一些建议
           url: https://zhuanlan.zhihu.com/p/21439229?f3fb8ead20=88617da7cef1519331009f0aece619a4
-        - title: Weibo to RSS
-          description: 微博转 RSS
-          url: https://rssfeed.today/weibo/
 
 
 - taxonomy: 软件开发
@@ -232,6 +234,9 @@
         - title: PDF24 Tools
           description: 免费且易于使用的在线 PDF 工具
           url: https://tools.pdf24.org/zh/
+        - title: 评语生成
+          description: 期末学生评语自动生成
+          url: https://class.acagrid.com/pc/comment?u=2802914
         - title: MD2WeChat
           description: Markdown 转富文本格式，公众号发文专用
           url: https://linyuxuanlin.github.io/MD2WeChat/
