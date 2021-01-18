@@ -246,6 +246,10 @@
         - title: MD2WeChat
           description: Markdown 转富文本格式，公众号发文专用
           url: https://linyuxuanlin.github.io/MD2WeChat/
+        - title: 101planners
+          description: 提供可打印的日历、活页、任务列表、购物列表等模板
+          url: https://www.101planners.com/
+
     - term: 软件资源
       links: 
         - title: 史蒂芬周的博客
