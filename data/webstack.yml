@@ -262,6 +262,9 @@
   list:
     - term: 在线工具
       links: 
+        - title: RecordScreen.io
+          description: 在线录屏
+          url: https://recordscreen.io/
         - title: NEXT ITELLYOU
           description: 系统镜像下载
           url: https://next.itellyou.cn/
@@ -286,6 +289,9 @@
         - title: 评语生成
           description: 期末学生评语自动生成
           url: https://class.acagrid.com/pc/comment?u=2802914
+        - title: 简答题
+          description: 网课答案
+          url: http://www.jiandati.com/
         - title: MD2WeChat
           description: Markdown 转富文本格式，公众号发文专用
           url: https://linyuxuanlin.github.io/MD2WeChat/
@@ -347,6 +353,9 @@
         - title: File Destructor 2.0
           description: 伪装文件损坏
           url: http://www.xnet.se/fd/
+        - title: Gridzzly
+          description: 在线生成格点纸
+          url: http://gridzzly.com/
 
 
     - term: 软件资源
