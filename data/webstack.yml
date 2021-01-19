@@ -220,6 +220,9 @@
   list:
     - term: 网站主题
       links:
+        - title: App Manifest Generator
+          description: 在线生成 Manifest
+          url: https://app-manifest.firebaseapp.com/
         - title: Startpage
           description: 看板 - Hugo 主题
           url: https://themes.gohugo.io/hugo-startpage-theme/
@@ -259,6 +262,9 @@
   list:
     - term: 在线工具
       links: 
+        - title: NEXT ITELLYOU
+          description: 系统镜像下载
+          url: https://next.itellyou.cn/
         - title: GitHub 文件加速
           description: GitHub 文件下载加速
           url: https://gh.api.99988866.xyz/
@@ -335,9 +341,12 @@
         - title: 在线短信接收 - 接码号
           description: 接码平台
           url: https://jiemahao.com/
-        - title: 在线短信接收
+        - title: 在线短信接收 
           description: 接码平台
           url: https://www.materialtools.com/?page=1
+        - title: File Destructor 2.0
+          description: 伪装文件损坏
+          url: http://www.xnet.se/fd/
 
 
     - term: 软件资源
@@ -520,6 +529,9 @@
 - taxonomy: 音乐
   icon: linecons-music
   links: 
+    - title: MP3 PAW
+      description: 在线下载 MP3 资源
+      url: https://mp3paw.com/
     - title: MuseScore
       description: 在线曲谱搜索
       url: https://musescore.com/
