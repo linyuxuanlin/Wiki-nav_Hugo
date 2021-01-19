@@ -207,6 +207,9 @@
         - title: Previewed
           description: 样机生成
           url: https://previewed.app/
+        - title: CLIPPING MAGIC
+          description: 在线抠图
+          url: https://zh.clippingmagic.com/
 
     - term: 文章分享
       links:
@@ -268,12 +271,18 @@
         - title: NEXT ITELLYOU
           description: 系统镜像下载
           url: https://next.itellyou.cn/
+        - title: MSDN ITELLYOU
+          description: 系统镜像与工具下载
+          url: https://msdn.itellyou.cn/
         - title: GitHub 文件加速
           description: GitHub 文件下载加速
           url: https://gh.api.99988866.xyz/
         - title: 快速创建收件夹
           description: 用于向多人收取文件，文件将保存在你的网盘中
           url: http://xzc.cn/
+        - title: AI 人工智能图片放大
+          description: 让图片更清晰
+          url: http://bigjpg.com/
         - title: RSSHub
           description: 万物皆可 RSS
           url: https://docs.rsshub.app/
@@ -286,6 +295,9 @@
         - title: PDF24 Tools
           description: 免费且易于使用的在线 PDF 工具
           url: https://tools.pdf24.org/zh/
+        - title: I Love PDF
+          description: PDF 爱好者的在线工具
+          url: http://www.ilovepdf.com/zh_cn
         - title: 评语生成
           description: 期末学生评语自动生成
           url: https://class.acagrid.com/pc/comment?u=2802914
@@ -304,6 +316,9 @@
         - title: Google Trends
           description: 了解关键词的流行趋势
           url: https://trends.google.com.sg/trends/?geo=CN
+        - title: 百度指数
+          description:
+          url: http://index.baidu.com/
         - title: Canon Creative Park
           description: 打印纸模型素材
           url: https://creativepark.canon/sc/index.html
@@ -319,6 +334,12 @@
         - title: LaTeX 公式编辑器
           description: 在线编辑 LaTeX
           url: https://www.latexlive.com/##
+        - title: Math Webdemo
+          description: 手写数学公式识别
+          url: https://webdemo.myscript.com/views/math/index.html
+        - title: GeoGebra
+          description: 在线数学软件（运算、绘图等）
+          url: https://www.geogebra.org/
         - title: 超级简历
           description: 在线生成简历
           url: https://www.wondercv.com/
@@ -356,6 +377,18 @@
         - title: Gridzzly
           description: 在线生成格点纸
           url: http://gridzzly.com/
+        - title: TinyPNG
+          description: 在线图片压缩
+          url: https://tinypng.com/
+        - title: GTmetrix
+          description: 网站加载速度测试
+          url: https://gtmetrix.com/
+        - title: NSEC lab
+          description: 定位 IP，分析是否为机器人
+          url: https://ip.rtbasia.com/
+        - title: asciiflow
+          description: 使用字符来绘画，代码注释用
+          url: http://asciiflow.com/
 
 
     - term: 软件资源
@@ -375,7 +408,15 @@
         - title: 无名下载
           description: 开源代码资料下载站
           url: http://www.iwmcn.com/
-
+        - title: https://www.serials.ws/
+          description: 各类软件激活码
+          url: https://www.serials.ws/
+        - title: Crx4Chrome
+          description: 国内可访问下载的 Chrome 插件
+          url: https://www.crx4chrome.com/
+        - title: APK Downloader
+          description: 下载 Google Play 的 .apk 文件
+          url: https://apk-dl.com/
 
 - taxonomy: 嵌入式
   icon: linecons-params
