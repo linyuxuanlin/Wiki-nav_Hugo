@@ -225,20 +225,35 @@
         - title: duososo
           description: PPT 最全资源搜索
           url: http://duososo.com/
-    - term: 网站资源
-      links:
+        - title: Favicon Generator. For real.
+          description: 上传图片，生成各种版本的 Favicon 与内嵌代码
+          url: https://realfavicongenerator.net/
         - title:  The museum
           description: 博物馆无版权图片
           url: https://www.artic.edu/collection
         - title: StrawBerry Icon
           description: Iconic Font 图标库
           url: http://chuangzaoshi.com/icon/
-
+        - title: Font Awesome
+          description: Font Awesome 图标库
+          url: https://fontawesome.com/start
+        - title: Iconfinder
+          description: 图标搜索引擎
+          url: https://www.iconfinder.com/
+        - title: OfficePLUS
+          description: 微软官方模板站
+          url: http://www.officeplus.cn/Template/Home.shtml
+        - title: loading.io
+          description: 加载动画的资源
+          url: http://loading.io/
     - term: 文章分享
       links:
         - title: Basics | 关于「色彩」你需要知道的
           description: 关于色彩方面的一些常识和关于配色的一些建议
           url: https://zhuanlan.zhihu.com/p/21439229?f3fb8ead20=88617da7cef1519331009f0aece619a4
+        - title: 新媒体运营高手都在用的工具，你知道几个？
+          description: 很全的资源贴
+          url: https://www.zhihu.com/question/50821464/answer/191409645?utm_source=qq&utm_medium=social
 
 
 - taxonomy: 软件开发
