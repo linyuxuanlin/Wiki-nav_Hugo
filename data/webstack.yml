@@ -198,6 +198,16 @@
         - title: Vector Magic
           description: 位图转矢量图
           url: https://vectormagic.com/
+        - title: Device Shots
+          description: 样机生成
+          url: https://deviceshots.com/
+        - title: Threed
+          description: 任意角度样机生成
+          url: https://threed.io/
+        - title: Previewed
+          description: 样机生成
+          url: https://previewed.app/
+
     - term: 文章分享
       links:
         - title: Basics | 关于「色彩」你需要知道的
@@ -285,9 +295,6 @@
         - title: Canon Creative Park
           description: 打印纸模型素材
           url: https://creativepark.canon/sc/index.html
-        - title: RECEIVE SMS ONLINE
-          description: 接码平台
-          url: https://www.receivesmsonline.net/
         - title: Have I been pwned?
           description: 检查密码是否已经泄露
           url: https://haveibeenpwned.com/
@@ -300,7 +307,37 @@
         - title: LaTeX 公式编辑器
           description: 在线编辑 LaTeX
           url: https://www.latexlive.com/##
-
+        - title: 超级简历
+          description: 在线生成简历
+          url: https://www.wondercv.com/
+        - title: 冷熊简历
+          description: 在线生成 Markdown 简历
+          url: http://cv.ftqq.com/?fr=github#
+        - title: Resumd
+          description: 在线生成 Markdown 简历
+          url: https://resumd.t9t.io/
+        - title: ALLDOCS
+          description: 在线任意格式转换
+          url: https://alldocs.app/
+        - title: RECEIVE SMS ONLINE
+          description: 接码平台
+          url: https://www.receivesmsonline.net/
+        - title: RECEIVE SMS ONLINE
+        - title: 在线接收短信
+          description: 接码平台
+          url: https://ch.freephonenum.com/
+        - title: My Trash Mobile
+          description: 接码平台
+          url: https://zh.mytrashmobile.com/
+        - title: 超级云短信
+          description: 接码平台
+          url: https://www.bfkdim.com/?lang=cn
+        - title: 在线短信接收 - 接码号
+          description: 接码平台
+          url: https://jiemahao.com/
+        - title: 在线短信接收
+          description: 接码平台
+          url: https://www.materialtools.com/?page=1
 
 
     - term: 软件资源
