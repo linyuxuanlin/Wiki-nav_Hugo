@@ -198,6 +198,9 @@
         - title: Vector Magic
           description: 位图转矢量图
           url: https://vectormagic.com/
+        - title: smartmockups
+          description: 样机生成
+          url: https://smartmockups.com/
         - title: Device Shots
           description: 样机生成
           url: https://deviceshots.com/
@@ -210,6 +213,26 @@
         - title: CLIPPING MAGIC
           description: 在线抠图
           url: https://zh.clippingmagic.com/
+        - title: brandmark
+          description: 在线生成品牌 logo
+          url: https://app.brandmark.io/v3/
+        - title: namelix
+          description: 在线生成品牌名字
+          url: https://namelix.com/app/
+        - title: voxelize-image
+          description: 将图片转换为立体像素方块
+          url: https://pissang.github.io/voxelize-image/
+        - title: duososo
+          description: PPT 最全资源搜索
+          url: http://duososo.com/
+    - term: 网站资源
+      links:
+        - title:  The museum
+          description: 博物馆无版权图片
+          url: https://www.artic.edu/collection
+        - title: StrawBerry Icon
+          description: Iconic Font 图标库
+          url: http://chuangzaoshi.com/icon/
 
     - term: 文章分享
       links:
