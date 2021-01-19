@@ -172,8 +172,23 @@
     description: 有意思的科技文
     url: https://juemuren4449.com/
   - title: 咖啡入门书
-    description: 系统性了解咖啡的相关知识
+    description: 系统了解咖啡的相关知识
     url: https://kaix.in/0001/primer-of-coffee/
+  - title: BETTYPLEX
+    description: Life is full of regrets
+    url: https://forbetty.com/
+  - title: Lazy Blog
+    description: 不想当厨子的司机不是好码农
+    url: https://www.weichao.ren/
+  - title: Ton's Blog
+    description: 一个存放笔记的小盒子
+    url: https://ton.tn/
+  - title: cdxy.me
+    description: Cyber Security / Data Science / Trading
+    url: https://www.cdxy.me/
+  - title: topbook
+    description: 高效生活视频书
+    url: http://topbook.cc/
 
 - taxonomy: 设计
   icon: linecons-pencil
@@ -234,6 +249,15 @@
   list:
     - term: 在线工具
       links: 
+        - title: GitHub 文件加速
+          description: GitHub 文件下载加速
+          url: https://gh.api.99988866.xyz/
+        - title: 快速创建收件夹
+          description: 用于向多人收取文件，文件将保存在你的网盘中
+          url: http://xzc.cn/
+        - title: RSSHub
+          description: 万物皆可 RSS
+          url: https://docs.rsshub.app/
         - title: 各种转 RSS 服务
           description: 知乎各种服务转 RSS
           url: https://rss.lilydjwg.me/
@@ -252,12 +276,50 @@
         - title: 101planners
           description: 提供可打印的日历、活页、任务列表、购物列表等模板
           url: https://www.101planners.com/
+        - title: 快搜
+          description: 各类资源搜索引擎
+          url: https://search.chongbuluo.com/
+        - title: Google Trends
+          description: 了解关键词的流行趋势
+          url: https://trends.google.com.sg/trends/?geo=CN
+        - title: Canon Creative Park
+          description: 打印纸模型素材
+          url: https://creativepark.canon/sc/index.html
+        - title: RECEIVE SMS ONLINE
+          description: 接码平台
+          url: https://www.receivesmsonline.net/
+        - title: Have I been pwned?
+          description: 检查密码是否已经泄露
+          url: https://haveibeenpwned.com/
+        - title: 与佛论禅
+          description: 在线文字加解密工具
+          url: http://keyfc.net/bbs/tools/tudoucode.aspx
+        - title: Experiments with Google
+          description: 谷歌 AI 项目
+          url: https://experiments.withgoogle.com/
+        - title: LaTeX 公式编辑器
+          description: 在线编辑 LaTeX
+          url: https://www.latexlive.com/##
+
+
 
     - term: 软件资源
       links: 
         - title: 史蒂芬周的博客
           description: Mac 软件
           url: http://www.sdifen.com/
+        - title: 软件下载 | 淘沙网
+          description: Win 软件
+          url: http://tao-s.com/soft
+        - title: ShareFreeAll
+          description: Mac 软件
+          url: http://sharefreeall.com/
+        - title: Aneeo Blog
+          description: iOS / Android
+          url: https://aneeo.com/
+        - title: 无名下载
+          description: 开源代码资料下载站
+          url: http://www.iwmcn.com/
 
 
 - taxonomy: 嵌入式
@@ -421,11 +483,21 @@
 - taxonomy: 音乐
   icon: linecons-music
   links: 
+    - title: MuseScore
+      description: 在线曲谱搜索
+      url: https://musescore.com/
     - title: MidiShow
       description: MIDI 音乐搜索引擎
       url: https://www.midishow.com/
-   
-
+    - title: Mutopia Project
+      description: 下载 MIDI 与曲谱
+      url: http://www.mutopiaproject.org/index.html
+    - title: A.I. Duet
+      description: 让 AI 伴奏的钢琴
+      url: https://experiments.withgoogle.com/ai/ai-duet/view/
+    - title: The Infinite Drum Machine
+      description: 用日常的声音创造鼓点
+      url: https://experiments.withgoogle.com/ai/drum-machine/view/
 
 - taxonomy: 电路设计
   icon: linecons-beaker
