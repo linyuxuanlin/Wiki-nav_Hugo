@@ -237,12 +237,27 @@
         - title: Font Awesome
           description: Font Awesome 图标库
           url: https://fontawesome.com/start
+        - title: flaticon
+          description: icon 图标库
+          url: http://www.flaticon.com/
         - title: Iconfinder
           description: 图标搜索引擎
           url: https://www.iconfinder.com/
+        - title: material design palette
+          description: UI 自动配色
+          url: https://www.materialpalette.com/
+        - title: colorsafe
+          description: 根据字体提供合适配色
+          url: http://colorsafe.co/
         - title: OfficePLUS
           description: 微软官方模板站
           url: http://www.officeplus.cn/Template/Home.shtml
+        - title: 花瓣
+          description: 灵感素材
+          url: http://huaban.com/
+        - title: Icons - Material Design
+          description: Material Design 图标
+          url: https://material.io/icons/
         - title: loading.io
           description: 加载动画的资源
           url: http://loading.io/
