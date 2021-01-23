@@ -393,6 +393,9 @@
         - title: GeoGebra
           description: 在线数学软件（运算、绘图等）
           url: https://www.geogebra.org/
+        - title: Markdown 简历
+          description: 在线简历编辑，推荐阅读项目的 README
+          url: https://resume.mdnice.com/
         - title: 超级简历
           description: 在线生成简历
           url: https://www.wondercv.com/
