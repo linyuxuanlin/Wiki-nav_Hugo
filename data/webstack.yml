@@ -190,7 +190,7 @@
     description: 高效生活视频书
     url: http://topbook.cc/
 
-- taxonomy: 设计
+- taxonomy: 设计相关
   icon: linecons-pencil
   list:
     - term: 工具
@@ -261,6 +261,12 @@
         - title: loading.io
           description: 加载动画的资源
           url: http://loading.io/
+        - title: petalica-paint
+          description: 用 AI 为你的画自动上色
+          url: https://petalica-paint.pixiv.dev/index_zh.html
+        - title: nothingtochance
+          description: 一些极简风的设计
+          url: https://nothingtochance.co/
     - term: 文章分享
       links:
         - title: Basics | 关于「色彩」你需要知道的
