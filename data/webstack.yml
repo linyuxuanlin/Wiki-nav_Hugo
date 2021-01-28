@@ -267,6 +267,18 @@
         - title: nothingtochance
           description: 一些极简风的设计
           url: https://nothingtochance.co/
+        - title: 文图
+          description: 制作可视化数据报告
+          url: http://wentu.io/
+        - title: infogram
+          description: 在线图表绘制
+          url: https://infogr.am/app/#/library
+        - title: Qiuziti
+          description: 字体识别与搜索
+          url: http://www.qiuziti.com/
+        - title: 墨刀
+          description: 在线原型工具
+          url: https://modao.cc/
     - term: 文章分享
       links:
         - title: Basics | 关于「色彩」你需要知道的
