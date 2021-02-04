@@ -524,58 +524,17 @@ https://yihui.org/cn/
   description:
   url: https://notes.wanghao.work/2015-04-06-%E5%A4%87%E4%BB%BDHexo%E5%8D%9A%E5%AE%A2%E6%BA%90%E6%96%87%E4%BB%B6.html
 
-- title: MOxFIVE's Blog
-  description:
-  url: http://moxfive.xyz/
 
 
-- title: useless machine: easy to make and hard to use! - All
-  description:
-  url: http://www.instructables.com/id/How-to-build-another-useless-machine-easy-to-make-/?ALLSTEPS
-
-- title: hzwer.com - Home
-  description:
-  url: http://hzwer.com/
-
-- title: Material Design 主题 | Viosey's Blog
-  description:
-  url: https://blog.viosey.com/2016/11/12/Hexo-material-theme-1-0-0/
-
-- title: 如何在云端搭建反社交APP - 阳志平的网志
-  description:
-  url: http://www.yangzhiping.com/tech/anti-social-tools.html
-
-- title: hexo嵌入PDF
-  description:
-  url: https://thoroughyoung.info/2017/03/21/hexo-build-blog-complete-guilde-5/
 
 - title: themes - 掌心
   description:
   url: http://www.zhanxin.info/themes.html
 
-- title: 使用 Hexo 为自己在 Github 上建一个静态 Blog 站点 | amxiaolai
-  description:
-  url: http://lixiaolai.com/2016/06/22/makecs-build-a-blog-with-hexo-on-github/
 
-- title: 使用 github Pages 服务建立 ixirong.com 独立博客全过程 | 自由
-  description:
-  url: http://www.ixirong.com/2015/05/17/how-to-build-ixirong-blog/
 
-- title: Material 主题
-  description:
-  url: https://material.viosey.com/docs/
 
-- title: disqus配置
-  description:
-  url: http://blog.fens.me/hexo-blog-github/
 
-- title: 使用Service worker实现加速/离线访问静态blog网站 | Geek Dev | Enjoy Geek Dev Life
-  description:
-  url: https://yangbo.tech/2017/01/15/2017-01-15-speedy-and-offline-site-by-service-worker/
-
-- title: Hexo high一下小功能 - 简书
-  description:
-  url: https://www.jianshu.com/p/748622c7bb20
 
 - title: SweetAlert
   description:
