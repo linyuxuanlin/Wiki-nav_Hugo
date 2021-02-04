@@ -504,6 +504,9 @@
           url: https://space.bilibili.com/14010836?spm_id_from=333.788.b_765f7570696e666f.1
     - term: Arduino
       links: 
+        - title: Arduino 中文社区
+          description: 一个 Arduino 社区
+          url: https://www.arduino.cn/
         - title: Hackster.io
           description: 一个嵌入式社区
           url: https://www.hackster.io/projects?ref=topnav
