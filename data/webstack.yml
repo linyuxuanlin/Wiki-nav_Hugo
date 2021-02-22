@@ -195,6 +195,18 @@
   list:
     - term: 工具
       links:
+        - title: 创造狮导航
+          description: 一个设计资源网站大全
+          url: http://chuangzaoshi.com/
+        - title: Dribbble
+          description: 设计作品网站
+          url: https://dribbble.com/
+        - title: iconfont
+          description: 阿里巴巴矢量图标库
+          url: http://www.iconfont.cn/
+        - title: Unsplash
+          description: 无版权图片
+          url: https://unsplash.com/
         - title: Vector Magic
           description: 位图转矢量图
           url: https://vectormagic.com/
@@ -314,6 +326,9 @@
           url: https://themes.gohugo.io/docsy/
     - term: 工具
       links:
+        - title: W3School
+          description: 各种语言的入门手册
+          url: https://www.w3school.com.cn/index.html
         - title: Jamstack
           description: 静态网站的参考（包括各类生成器和 CMS）
           url: https://jamstack.org/
