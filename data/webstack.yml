@@ -210,6 +210,12 @@
         - title: Vector Magic
           description: 位图转矢量图
           url: https://vectormagic.com/
+        - title: AutoDraw
+          description: 根据关键词自动绘制简图
+          url: https://www.autodraw.com/
+        - title: 最受欢迎的顶级设计资源（下）
+          description: 一篇不错的设计相关的文章
+          url: https://zhuanlan.zhihu.com/p/22787367?utm_source=qq&utm_medium=social
         - title: smartmockups
           description: 样机生成
           url: https://smartmockups.com/
@@ -477,6 +483,12 @@
         - title: asciiflow
           description: 使用字符来绘画，代码注释用
           url: http://asciiflow.com/
+        - title: Generate awesome Javascript project names
+          description: 随机取名器
+          url: http://mrsharpoblunto.github.io/foswig.js/
+        - title: FC 游戏在线玩
+          description: 在线玩各种经典游戏
+          url: http://lab.mkblog.cn/FCGames/#/
 
 
     - term: 软件资源
@@ -517,8 +529,11 @@
         - title: 发明控 · bilibili
           description: ESP8266 / 嵌入式 / 树莓派项目
           url: https://space.bilibili.com/14010836?spm_id_from=333.788.b_765f7570696e666f.1
-    - term: Arduino
+    - term: Arduino 与树莓派
       links: 
+        - title: 创客导航
+          description: 各种周边资源网站
+          url: http://mc.dfrobot.com.cn/links/
         - title: Arduino 中文社区
           description: 一个 Arduino 社区
           url: https://www.arduino.cn/
@@ -534,6 +549,12 @@
         - title: 创客智造
           description: 专注于开源硬件和软件的学习和应用.Arduino，Raspberry Pi，树莓派，ROS 机器人系统， Turtlebot，UAV 无人机
           url: https://www.ncnynl.com/
+        - title: 树莓派中文站
+          description: 海量讯息 / 教程资料 / 创意项目 / 原创产品
+        - title: 树莓派实验室
+          description: 教程 · 创意 · 作品 · 资讯 · 硬件
+          url: http://shumeipai.nxez.com/
+          url: http://www.52pi.net/
         - title: Open Electronics
           description: 一些 Arduino 项目
           url: http://www.open-electronics.org/category/opensourceprojects/
@@ -789,6 +810,8 @@
           url: https://weixin.qq.com/
         - title: 跳动的字节
           description: （比较推荐）
+          url: https://weixin.qq.com/
+        - title: 心向梦往
           url: https://weixin.qq.com/
         - title: 电子芯
           url: https://weixin.qq.com/
