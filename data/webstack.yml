@@ -529,6 +529,9 @@
   list:
     - term: STM32
       links: 
+        - title: STM32 手册大全
+          description: STM32 各型号数据手册、工具应用笔记等（中英文文档）
+          url: https://www.stmcu.org.cn/document/list/index/category-150
         - title: 精品 STM32 项目合集
           description: 电子森林整理的嵌入式项目（普遍较旧）
           url: https://www.eetree.cn/doc/detail/1089
