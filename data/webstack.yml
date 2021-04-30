@@ -31,15 +31,16 @@
     - title: WAI 科技社
       description: Weixiang 的科技社
       url: https://www.waitech.cn/
-    - title: 《交大生存手册》
-      description: 我们能从大学教育里获得什么？
-      url: https://survivesjtu.gitbook.io/survivesjtumanual/
+
 
 
 
 - taxonomy: 优质博客
   icon: linecons-note
   links: 
+  - title: 《交大生存手册》
+    description: 我们能从大学教育里获得什么？
+    url: https://survivesjtu.gitbook.io/survivesjtumanual/
   - title: AresX's Blog
     description: wubba lubba dub dub.
     url: https://ares-x.com/
