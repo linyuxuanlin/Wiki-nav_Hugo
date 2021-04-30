@@ -36,6 +36,7 @@
       url: https://survivesjtu.gitbook.io/survivesjtumanual/
 
 
+
 - taxonomy: 优质博客
   icon: linecons-note
   links: 
@@ -197,6 +198,278 @@
     url: http://topbook.cc/
 
 
+
+- taxonomy: 电路设计
+  icon: linecons-beaker
+  list:
+    - term: 学习资源
+      links: 
+        - title: ADI《新概念模拟电路》全五册
+          description: 
+          url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/ADI%E3%80%8A%E6%96%B0%E6%A6%82%E5%BF%B5%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E3%80%8B%E5%85%A8%E4%BA%94%E5%86%8C.pdf
+        - title: 读懂电路图
+          description: 《工程师教你最简单的读懂电路图的方法》
+          url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/%E3%80%8A%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%95%99%E4%BD%A0%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E8%AF%BB%E6%87%82%E7%94%B5%E8%B7%AF%E5%9B%BE%E7%9A%84%E6%96%B9%E6%B3%95%E3%80%8B.pdf
+        - title: 常用电子元器件
+          description: 
+          url: https://www.eetree.cn/wiki/%E5%B8%B8%E7%94%A8%E7%94%B5%E5%AD%90%E5%85%83%E5%99%A8%E4%BB%B6
+        - title: 电子工程师的资源网站大全
+          description: 
+          url: https://www.eetree.cn/wiki/
+        - title: 凡亿原创电子技术干货文章
+          description: 包含 `单片机的复位电路` `采样电路的运用和设计` 等 13 篇技术文章
+          url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/%E5%87%A1%E4%BA%BF%E5%8E%9F%E5%88%9B%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%B9%B2%E8%B4%A7%E6%96%87%E7%AB%A0
+        - title: EMC 设计标准电路
+          description: 
+          url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/EMC%E8%AE%BE%E8%AE%A1%E6%A0%87%E5%87%86%E7%94%B5%E8%B7%AF
+        - title: 元器件封装查询
+          description: 
+          url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/%E5%85%83%E5%99%A8%E4%BB%B6%E5%B0%81%E8%A3%85%E6%9F%A5%E8%AF%A2.pdf
+    - term: 在线工具
+      links: 
+        - title: TI 参考设计
+          description: 
+          url: http://www.ti.com.cn/cn/reference-designs/index.html
+        - title: 实用工具大全
+          description: 
+          url: https://tool.520101.com/dianlu/diangonglv/
+        - title: EDA365 在线工具
+          description: 
+          url: https://www.eda365.com/eda365libs/edacalc/
+        - title: CircuitJS
+          description: 很强的电路在线仿真工具
+          url: http://www.falstad.com/circuit/circuitjs.html
+        - title: Examples · CircuitJS
+          description: 上个工具的一些典型电路
+          url: http://www.falstad.com/circuit/e-index.html
+        - title: 3D Content Central
+          description: 很全的元器件封装 3D 模型
+          url: http://www.3dcontentcentral.com.cn/
+    - term: 开源硬件
+      links: 
+        - title: 野火所有产品的封装库
+          description: 
+          url: http://doc.embedfire.com/products/link/zh/latest/pcb/ebf_pcblib.html
+        - title: 野火产品资料下载中心 
+          description: 
+          url: http://doc.embedfire.com/products/link/zh/latest/index.html
+        - title: 技新 · 产品中心
+          description: 
+          url: https://www.jixin.pro/shop
+        - title: 立创开源硬件平台
+          description: 
+          url: https://oshwhub.com/
+        - title: DFRobot
+          description: 
+          url: http://wiki.dfrobot.com.cn/
+        - title: 硬石开源资料下载
+          description: 
+          url: http://www.ing10bbs.com/forum.php?mod=viewthread&tid=1458&fromuid=4
+        - title: 正点原子资料下载中心
+          description: 
+          url: http://www.openedv.com/docs/index.html
+    - term: 公众号推荐
+      links: 
+        - title: 电子电路
+          description: （比较推荐）
+          url: https://weixin.qq.com/
+        - title: 达尔文说
+          description: （比较推荐）
+          url: https://weixin.qq.com/
+        - title: 硬件十万个为什么
+          description: （比较推荐）
+          url: https://weixin.qq.com/
+        - title: 嵌入式专栏
+          description: （比较推荐）
+          url: https://weixin.qq.com/
+        - title: 电子森林
+          description: （比较推荐）
+          url: https://weixin.qq.com/
+        - title: 芯片电子之家
+          description: （比较推荐）
+          url: https://weixin.qq.com/
+        - title: 安富莱电子
+          description: （比较推荐）
+          url: https://weixin.qq.com/
+        - title: 路飞的电子设计宝藏
+          description: （比较推荐）
+          url: https://weixin.qq.com/
+        - title: strongerHuang
+          description: （比较推荐）
+          url: https://weixin.qq.com/
+        - title: 跳动的字节
+          description: （比较推荐）
+          url: https://weixin.qq.com/
+        - title: 心向梦往
+          url: https://weixin.qq.com/
+        - title: 电子芯
+          url: https://weixin.qq.com/
+        - title: 电力电子技术与新能源
+          url: https://weixin.qq.com/
+        - title: 张飞实战电子
+          url: https://weixin.qq.com/
+        - title: 硬禾学堂
+          url: https://weixin.qq.com/
+        - title: STM32 单片机
+          url: https://weixin.qq.com/
+        - title: 芯片之家
+          url: https://weixin.qq.com/
+        - title: 凡忆 PCB
+          url: https://weixin.qq.com/
+        - title: 电路设计技能
+          url: https://weixin.qq.com/
+        - title: 硬件产品经理杂谈
+          url: https://weixin.qq.com/
+
+
+
+- taxonomy: 嵌入式
+  icon: linecons-params
+  list:
+    - term: STM32
+      links: 
+        - title: STM32 手册大全
+          description: STM32 各型号数据手册、工具应用笔记等（中英文文档）
+          url: https://www.stmcu.org.cn/document/list/index/category-150
+        - title: 精品 STM32 项目合集
+          description: 电子森林整理的嵌入式项目（普遍较旧）
+          url: https://www.eetree.cn/doc/detail/1089
+        - title: 发明控 · bilibili
+          description: ESP8266 / 嵌入式 / 树莓派项目
+          url: https://space.bilibili.com/14010836?spm_id_from=333.788.b_765f7570696e666f.1
+    - term: Arduino 与树莓派
+      links: 
+        - title: 创客导航
+          description: 各种周边资源网站
+          url: http://mc.dfrobot.com.cn/links/
+        - title: Arduino 中文社区
+          description: 一个 Arduino 社区
+          url: https://www.arduino.cn/
+        - title: Hackster.io
+          description: 一个嵌入式社区
+          url: https://www.hackster.io/projects?ref=topnav
+        - title: Arduino 实验室
+          description: 一个 Arduino 社区
+          url: http://arduino.nxez.com/
+        - title: Arduino·Pinterest
+          description: Pinterest 上 Arduino 相关的资源
+          url: https://www.pinterest.com/search/pins/?q=arduino&rs=typed&term_meta%5B%5D=arduino%7Ctyped
+        - title: 创客智造
+          description: 专注于开源硬件和软件的学习和应用.Arduino，Raspberry Pi，树莓派，ROS 机器人系统， Turtlebot，UAV 无人机
+          url: https://www.ncnynl.com/
+        - title: 树莓派中文站
+          description: 海量讯息 / 教程资料 / 创意项目 / 原创产品
+        - title: 树莓派实验室
+          description: 教程 · 创意 · 作品 · 资讯 · 硬件
+          url: http://shumeipai.nxez.com/
+          url: http://www.52pi.net/
+        - title: Open Electronics
+          description: 一些 Arduino 项目
+          url: http://www.open-electronics.org/category/opensourceprojects/
+        - title: KEYSWEEPER
+          description: 基于Arduino 的键盘监听器
+          url: https://samy.pl/keysweeper/
+        - title: Circuito
+          description: 拖动实物图生成 Arduino 程序
+          url: https://circuito.io/app
+        - title: Learn·Adafruit
+          description: 一些 Arduino 项目
+          url: https://learn.adafruit.com/
+        - title: RobotShop
+          description: 一些机器人相关的项目
+          url: https://www.robotshop.com/community/robots
+        - title: bildr.blog
+          description: 收录一些 Arduino 项目
+          url: http://bildr.org
+        - title: DF 创客社区
+          description: 一个 Arduino 相关的社区
+          url: https://mc.dfrobot.com.cn/
+        - title: The Custom Geek
+          description: 一些有趣的项目
+          url: http://thecustomgeek.com/
+        - title: How To Mechatronics
+          description: Arduino 项目合集
+          url: http://howtomechatronics.com/category/projects/page/2/
+        - title: Hackaday.io
+          description: 创客社区
+          url: https://hackaday.io/projects
+        - title: Keuwl Electronics
+          description: 蓝牙串口 App
+          url: http://www.keuwl.com/electronics.html
+        - title: Sparkfun
+          description: Sparkfun Arduino 项目
+          url: https://learn.sparkfun.com/tutorials?page=1
+        - title: MAKE IT REAL
+          description: 把漫威 DC 道具带到现实
+          url: https://www.hacksmith.tech/
+        - title: Madox.NET
+          description: 一个嵌入式博客
+          url: http://www.madox.net/blog/ 
+        - title: mobilerobots.pl
+          description: 各种轮式机器人
+          url: http://mobilerobots.pl/
+        - title: Zak's Electronics Blog ~*
+          description: 很多有趣的电路设计 / 嵌入式项目
+          url: https://blog.zakkemble.net/
+        - title: DIY Digital Wristwatch
+          description: 基于 Arduino 的智能手表
+          url: https://blog.zakkemble.net/diy-digital-wristwatch/
+        - title: ThingPulse/esp8266-weather-station
+          description: 基于 ESP8266 的气象站
+          url: https://github.com/ThingPulse/esp8266-weather-station
+        - title: A Beginner's Guide to the ESP8266
+          description: 很详细的 ESP8266 教程
+          url: https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html
+        - title: 0miker0's Blog
+          description: 一些与 ESP8266/OLED 相关的项目
+          url: https://0miker0.wordpress.com
+    - term: 3D 打印相关
+      links: 
+        - title: Thingiverse
+          description: 3D 模型站
+          url: http://www.thingiverse.com/
+        - title: 乐事可
+          description: 3D 模型站
+          url: http://www.lskck.com/
+        - title: YouMagine
+          description: 3D 模型站
+          url: https://www.youmagine.com/
+        - title: Cults 3D
+          description: 3D 模型站
+          url: https://cults3d.com/en/
+        - title: yeggi
+          description: 3D 模型站
+          url: http://www.yeggi.com/
+        - title: InMoov
+          description: 开源 3D 打印人形机器人
+          url: http://inmoov.fr/build-yours/
+        - title: p3d.in 
+          description: 在线预览 3D 模型
+          url: http://p3d.in/
+        - title: Sketchfab 
+          description: 在线预览 3D 模型
+          url: https://sketchfab.com/
+        - title: MyMiniFactory 
+          description: 3D 微缩模型资源站
+          url: https://www.myminifactory.com/
+        - title: 3D Content Central
+          description: 零件、装配体资源库
+          url: http://www.3dcontentcentral.com.cn/
+        - title: most3D
+          description: 3D 模型站
+          url: https://www.most3d.cn/models/
+        - title: Pinshape
+          description: 3D 模型站
+          url: https://pinshape.com/
+        - title: 3DaGoGo
+          description: 3D 模型站
+          url: https://www.3dagogo.com/
+        - title: All3DP
+          description: 3D 模型站
+          url: https://all3dp.com/printables/
+
+
+
 - taxonomy: 设计相关
   icon: linecons-pencil
   list:
@@ -314,6 +587,7 @@
           url: https://www.zhihu.com/question/50821464/answer/191409645?utm_source=qq&utm_medium=social
 
 
+
 - taxonomy: 软件开发
   icon: linecons-desktop
   list:
@@ -357,6 +631,7 @@
         - title: 《GitHub 漫游指南》
           description: 
           url: https://github.com/linyuxuanlin/File-host/blob/main/software-development/GitHub%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97.pdf
+
 
 
 - taxonomy: 工具
@@ -525,151 +800,6 @@
           description: 下载 Google Play 的 .apk 文件
           url: https://apk-dl.com/
 
-- taxonomy: 嵌入式
-  icon: linecons-params
-  list:
-    - term: STM32
-      links: 
-        - title: STM32 手册大全
-          description: STM32 各型号数据手册、工具应用笔记等（中英文文档）
-          url: https://www.stmcu.org.cn/document/list/index/category-150
-        - title: 精品 STM32 项目合集
-          description: 电子森林整理的嵌入式项目（普遍较旧）
-          url: https://www.eetree.cn/doc/detail/1089
-        - title: 发明控 · bilibili
-          description: ESP8266 / 嵌入式 / 树莓派项目
-          url: https://space.bilibili.com/14010836?spm_id_from=333.788.b_765f7570696e666f.1
-    - term: Arduino 与树莓派
-      links: 
-        - title: 创客导航
-          description: 各种周边资源网站
-          url: http://mc.dfrobot.com.cn/links/
-        - title: Arduino 中文社区
-          description: 一个 Arduino 社区
-          url: https://www.arduino.cn/
-        - title: Hackster.io
-          description: 一个嵌入式社区
-          url: https://www.hackster.io/projects?ref=topnav
-        - title: Arduino 实验室
-          description: 一个 Arduino 社区
-          url: http://arduino.nxez.com/
-        - title: Arduino·Pinterest
-          description: Pinterest 上 Arduino 相关的资源
-          url: https://www.pinterest.com/search/pins/?q=arduino&rs=typed&term_meta%5B%5D=arduino%7Ctyped
-        - title: 创客智造
-          description: 专注于开源硬件和软件的学习和应用.Arduino，Raspberry Pi，树莓派，ROS 机器人系统， Turtlebot，UAV 无人机
-          url: https://www.ncnynl.com/
-        - title: 树莓派中文站
-          description: 海量讯息 / 教程资料 / 创意项目 / 原创产品
-        - title: 树莓派实验室
-          description: 教程 · 创意 · 作品 · 资讯 · 硬件
-          url: http://shumeipai.nxez.com/
-          url: http://www.52pi.net/
-        - title: Open Electronics
-          description: 一些 Arduino 项目
-          url: http://www.open-electronics.org/category/opensourceprojects/
-        - title: KEYSWEEPER
-          description: 基于Arduino 的键盘监听器
-          url: https://samy.pl/keysweeper/
-        - title: Circuito
-          description: 拖动实物图生成 Arduino 程序
-          url: https://circuito.io/app
-        - title: Learn·Adafruit
-          description: 一些 Arduino 项目
-          url: https://learn.adafruit.com/
-        - title: RobotShop
-          description: 一些机器人相关的项目
-          url: https://www.robotshop.com/community/robots
-        - title: bildr.blog
-          description: 收录一些 Arduino 项目
-          url: http://bildr.org
-        - title: DF 创客社区
-          description: 一个 Arduino 相关的社区
-          url: https://mc.dfrobot.com.cn/
-        - title: The Custom Geek
-          description: 一些有趣的项目
-          url: http://thecustomgeek.com/
-        - title: How To Mechatronics
-          description: Arduino 项目合集
-          url: http://howtomechatronics.com/category/projects/page/2/
-        - title: Hackaday.io
-          description: 创客社区
-          url: https://hackaday.io/projects
-        - title: Keuwl Electronics
-          description: 蓝牙串口 App
-          url: http://www.keuwl.com/electronics.html
-        - title: Sparkfun
-          description: Sparkfun Arduino 项目
-          url: https://learn.sparkfun.com/tutorials?page=1
-        - title: MAKE IT REAL
-          description: 把漫威 DC 道具带到现实
-          url: https://www.hacksmith.tech/
-        - title: Madox.NET
-          description: 一个嵌入式博客
-          url: http://www.madox.net/blog/ 
-        - title: mobilerobots.pl
-          description: 各种轮式机器人
-          url: http://mobilerobots.pl/
-        - title: Zak's Electronics Blog ~*
-          description: 很多有趣的电路设计 / 嵌入式项目
-          url: https://blog.zakkemble.net/
-        - title: DIY Digital Wristwatch
-          description: 基于 Arduino 的智能手表
-          url: https://blog.zakkemble.net/diy-digital-wristwatch/
-        - title: ThingPulse/esp8266-weather-station
-          description: 基于 ESP8266 的气象站
-          url: https://github.com/ThingPulse/esp8266-weather-station
-        - title: A Beginner's Guide to the ESP8266
-          description: 很详细的 ESP8266 教程
-          url: https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html
-        - title: 0miker0's Blog
-          description: 一些与 ESP8266/OLED 相关的项目
-          url: https://0miker0.wordpress.com
-    - term: 3D 打印相关
-      links: 
-        - title: Thingiverse
-          description: 3D 模型站
-          url: http://www.thingiverse.com/
-        - title: 乐事可
-          description: 3D 模型站
-          url: http://www.lskck.com/
-        - title: YouMagine
-          description: 3D 模型站
-          url: https://www.youmagine.com/
-        - title: Cults 3D
-          description: 3D 模型站
-          url: https://cults3d.com/en/
-        - title: yeggi
-          description: 3D 模型站
-          url: http://www.yeggi.com/
-        - title: InMoov
-          description: 开源 3D 打印人形机器人
-          url: http://inmoov.fr/build-yours/
-        - title: p3d.in 
-          description: 在线预览 3D 模型
-          url: http://p3d.in/
-        - title: Sketchfab 
-          description: 在线预览 3D 模型
-          url: https://sketchfab.com/
-        - title: MyMiniFactory 
-          description: 3D 微缩模型资源站
-          url: https://www.myminifactory.com/
-        - title: 3D Content Central
-          description: 零件、装配体资源库
-          url: http://www.3dcontentcentral.com.cn/
-        - title: most3D
-          description: 3D 模型站
-          url: https://www.most3d.cn/models/
-        - title: Pinshape
-          description: 3D 模型站
-          url: https://pinshape.com/
-        - title: 3DaGoGo
-          description: 3D 模型站
-          url: https://www.3dagogo.com/
-        - title: All3DP
-          description: 3D 模型站
-          url: https://all3dp.com/printables/
-
 
 
 - taxonomy: 阅读
@@ -695,6 +825,7 @@
       url: https://my.clippings.io/#
 
 
+
 - taxonomy: 音乐
   icon: linecons-music
   links: 
@@ -716,125 +847,3 @@
     - title: The Infinite Drum Machine
       description: 用日常的声音创造鼓点
       url: https://experiments.withgoogle.com/ai/drum-machine/view/
-
-- taxonomy: 电路设计
-  icon: linecons-beaker
-  list:
-    - term: 学习资源
-      links: 
-        - title: ADI《新概念模拟电路》全五册
-          description: 
-          url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/ADI%E3%80%8A%E6%96%B0%E6%A6%82%E5%BF%B5%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E3%80%8B%E5%85%A8%E4%BA%94%E5%86%8C.pdf
-        - title: 读懂电路图
-          description: 《工程师教你最简单的读懂电路图的方法》
-          url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/%E3%80%8A%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%95%99%E4%BD%A0%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E8%AF%BB%E6%87%82%E7%94%B5%E8%B7%AF%E5%9B%BE%E7%9A%84%E6%96%B9%E6%B3%95%E3%80%8B.pdf
-        - title: 常用电子元器件
-          description: 
-          url: https://www.eetree.cn/wiki/%E5%B8%B8%E7%94%A8%E7%94%B5%E5%AD%90%E5%85%83%E5%99%A8%E4%BB%B6
-        - title: 电子工程师的资源网站大全
-          description: 
-          url: https://www.eetree.cn/wiki/
-        - title: 凡亿原创电子技术干货文章
-          description: 包含 `单片机的复位电路` `采样电路的运用和设计` 等 13 篇技术文章
-          url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/%E5%87%A1%E4%BA%BF%E5%8E%9F%E5%88%9B%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%B9%B2%E8%B4%A7%E6%96%87%E7%AB%A0
-        - title: EMC 设计标准电路
-          description: 
-          url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/EMC%E8%AE%BE%E8%AE%A1%E6%A0%87%E5%87%86%E7%94%B5%E8%B7%AF
-        - title: 元器件封装查询
-          description: 
-          url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/%E5%85%83%E5%99%A8%E4%BB%B6%E5%B0%81%E8%A3%85%E6%9F%A5%E8%AF%A2.pdf
-    - term: 在线工具
-      links: 
-        - title: TI 参考设计
-          description: 
-          url: http://www.ti.com.cn/cn/reference-designs/index.html
-        - title: 实用工具大全
-          description: 
-          url: https://tool.520101.com/dianlu/diangonglv/
-        - title: EDA365 在线工具
-          description: 
-          url: https://www.eda365.com/eda365libs/edacalc/
-        - title: CircuitJS
-          description: 很强的电路在线仿真工具
-          url: http://www.falstad.com/circuit/circuitjs.html
-        - title: Examples · CircuitJS
-          description: 上个工具的一些典型电路
-          url: http://www.falstad.com/circuit/e-index.html
-        - title: 3D Content Central
-          description: 很全的元器件封装 3D 模型
-          url: http://www.3dcontentcentral.com.cn/
-    - term: 开源硬件
-      links: 
-        - title: 野火所有产品的封装库
-          description: 
-          url: http://doc.embedfire.com/products/link/zh/latest/pcb/ebf_pcblib.html
-        - title: 野火产品资料下载中心 
-          description: 
-          url: http://doc.embedfire.com/products/link/zh/latest/index.html
-        - title: 技新 · 产品中心
-          description: 
-          url: https://www.jixin.pro/shop
-        - title: 立创开源硬件平台
-          description: 
-          url: https://oshwhub.com/
-        - title: DFRobot
-          description: 
-          url: http://wiki.dfrobot.com.cn/
-        - title: 硬石开源资料下载
-          description: 
-          url: http://www.ing10bbs.com/forum.php?mod=viewthread&tid=1458&fromuid=4
-        - title: 正点原子资料下载中心
-          description: 
-          url: http://www.openedv.com/docs/index.html
-    - term: 公众号推荐
-      links: 
-        - title: 电子电路
-          description: （比较推荐）
-          url: https://weixin.qq.com/
-        - title: 达尔文说
-          description: （比较推荐）
-          url: https://weixin.qq.com/
-        - title: 硬件十万个为什么
-          description: （比较推荐）
-          url: https://weixin.qq.com/
-        - title: 嵌入式专栏
-          description: （比较推荐）
-          url: https://weixin.qq.com/
-        - title: 电子森林
-          description: （比较推荐）
-          url: https://weixin.qq.com/
-        - title: 芯片电子之家
-          description: （比较推荐）
-          url: https://weixin.qq.com/
-        - title: 安富莱电子
-          description: （比较推荐）
-          url: https://weixin.qq.com/
-        - title: 路飞的电子设计宝藏
-          description: （比较推荐）
-          url: https://weixin.qq.com/
-        - title: strongerHuang
-          description: （比较推荐）
-          url: https://weixin.qq.com/
-        - title: 跳动的字节
-          description: （比较推荐）
-          url: https://weixin.qq.com/
-        - title: 心向梦往
-          url: https://weixin.qq.com/
-        - title: 电子芯
-          url: https://weixin.qq.com/
-        - title: 电力电子技术与新能源
-          url: https://weixin.qq.com/
-        - title: 张飞实战电子
-          url: https://weixin.qq.com/
-        - title: 硬禾学堂
-          url: https://weixin.qq.com/
-        - title: STM32 单片机
-          url: https://weixin.qq.com/
-        - title: 芯片之家
-          url: https://weixin.qq.com/
-        - title: 凡忆 PCB
-          url: https://weixin.qq.com/
-        - title: 电路设计技能
-          url: https://weixin.qq.com/
-        - title: 硬件产品经理杂谈
-          url: https://weixin.qq.com/
