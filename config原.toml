@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "zh-CN"
+title = "Power's Nav"
+theme = "webstack-hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = ""

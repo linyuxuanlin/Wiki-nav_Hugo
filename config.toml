@@ -1,8 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "https://nav.wiki-power.com/"
 languageCode = "zh-CN"
-title = "Power's Nav"
+title = "WebStack网址导航 Hugo主题"
 theme = "webstack-hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
 copyright = ""
+[params]
+  author = "iplaycode"
+  description = "Webstack Hugo"
