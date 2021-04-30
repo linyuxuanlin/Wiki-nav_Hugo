@@ -1,4 +1,4 @@
-- taxonomy: 我的小伙伴们
+- taxonomy: 我的朋友们
   icon: linecons-star
   links:
     - title: Power's Wiki
@@ -195,6 +195,7 @@
   - title: topbook
     description: 高效生活视频书
     url: http://topbook.cc/
+
 
 - taxonomy: 设计相关
   icon: linecons-pencil
@@ -668,9 +669,6 @@
         - title: All3DP
           description: 3D 模型站
           url: https://all3dp.com/printables/
-
-
-
 
 
 
