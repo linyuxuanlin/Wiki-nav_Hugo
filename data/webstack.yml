@@ -806,6 +806,12 @@
 - taxonomy: 阅读
   icon: linecons-inbox
   links: 
+    - title: 全国图书馆参考咨询联盟
+      description: 最全的中文书籍站点
+      url: http://www.ucdrs.superlib.net/
+    - title: Library Genesis
+      description: 最全的英文书籍站点
+      url: http://libgen.rs/
     - title: SaltTiger
       description: 每天一本编程书，每天进步一点点
       url: https://salttiger.com/
