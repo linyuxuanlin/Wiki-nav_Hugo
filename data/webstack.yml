@@ -269,6 +269,9 @@
         - title: 正点原子资料下载中心
           description: 
           url: http://www.openedv.com/docs/index.html
+        - title: Seeed
+          description: Seeed 的开源产品
+          url: https://wiki.seeedstudio.com/
     - term: 公众号推荐
       links: 
         - title: 电子电路
