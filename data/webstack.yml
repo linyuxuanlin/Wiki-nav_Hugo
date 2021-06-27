@@ -782,6 +782,12 @@
 
     - term: 软件资源
       links: 
+        - title: 果壳剥壳
+          description: 绿色便携软件站点（Windows/Android）
+          url: https://www.ghpym.com/
+        - title: PortableAppK
+          description: 绿色便携软件站点
+          url: https://portableappk.com/
         - title: 史蒂芬周的博客
           description: Mac 软件
           url: http://www.sdifen.com/
