@@ -234,6 +234,9 @@
         - title: 滤波器设计
           description: 滤波器参考设计
           url: http://sim.okawa-denshi.jp/en/Fkeisan.htm
+        - title: webench
+          description: TI 电源选型工具
+          url: https://webench.ti.com/power-designer/
         - title: TI 参考设计
           description: 
           url: http://www.ti.com.cn/cn/reference-designs/index.html
