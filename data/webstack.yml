@@ -263,6 +263,9 @@
           url: http://www.3dcontentcentral.com.cn/
     - term: 开源硬件
       links: 
+        - title: electronics-lab
+          description: 开源硬件项目
+          url: https://www.electronics-lab.com/
         - title: 野火所有产品的封装库
           description: 
           url: http://doc.embedfire.com/products/link/zh/latest/pcb/ebf_pcblib.html
