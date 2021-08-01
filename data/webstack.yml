@@ -503,6 +503,9 @@
         - title: Dribbble
           description: 设计作品网站
           url: https://dribbble.com/
+        - title: IconPark
+          description: 字节出品免费图标库
+          url: https://iconpark.oceanengine.com/official
         - title: iconfont
           description: 阿里巴巴矢量图标库
           url: http://www.iconfont.cn/
