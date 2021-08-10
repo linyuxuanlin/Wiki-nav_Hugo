@@ -281,6 +281,9 @@
         - title: Seeed
           description: Seeed 的开源产品
           url: https://wiki.seeedstudio.com/
+        - title: Pololu
+          description: 开源硬件商城
+          url: https://www.pololu.com/
     - term: 公众号推荐
       links: 
         - title: 电子电路
