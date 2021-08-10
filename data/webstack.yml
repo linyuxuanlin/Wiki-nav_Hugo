@@ -4,36 +4,13 @@
     - title: Power's Wiki
       description: 我的站点
       url: https://wiki-power.com/
-    - title: BOBI83
-      description: Bobi
-      url: https://bobi.site/
-    - title: Maroio's Wiki
-      description: 雨欣
-      url: https://maroiomars.cn/docusaurus-wiki/
-    - title: BUG-Hunter 的小星球
-      description: 梓凯哥
-      url: http://www.bug-hunter.site/
-    - title: 快乐人口无 (๑ŐдŐ)b
-      description: 展鸿
-      url: https://anshinintakaha.github.io/
-    - title: 佳佳鸽的博客
-      description: 骑摩托的佳佳哥
-      url: https://blog.csdn.net/weixin_43793181
-    - title: Rcxxx
-      description: 新新哥
-      url: https://sinnammanyo.cn/
-    - title: unbinilium.me
-      description: 湘杰
-      url: book.unbinilium.me
-    - title: 非酋寻乡
-      description: 高佬
-      url: https://www.notion.so/fqjun/  Learning-28a0ac3bcc454c3badab2a106eae6125
+    - title: 野狼博客导航
+      description: 队员们的博客收录
+      url: https://nav.wildwolf.tech/
     - title: WAI 科技社
       description: Weixiang 的科技社
       url: https://www.waitech.cn/
-    - title: Mingkonic
-      description: 国熙的博客
-      url: https://mingkonic.work/
+
 
 
 
@@ -234,9 +211,15 @@
           url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/%E5%85%83%E5%99%A8%E4%BB%B6%E5%B0%81%E8%A3%85%E6%9F%A5%E8%AF%A2.pdf
     - term: 在线工具
       links: 
+        - title: TopLine
+          description: 封装查询
+          url: https://www.topline.tv/
         - title: 滤波器设计
           description: 滤波器参考设计
           url: http://sim.okawa-denshi.jp/en/Fkeisan.htm
+        - title: webench
+          description: TI 电源选型工具
+          url: https://webench.ti.com/power-designer/
         - title: TI 参考设计
           description: 
           url: http://www.ti.com.cn/cn/reference-designs/index.html
@@ -257,6 +240,9 @@
           url: http://www.3dcontentcentral.com.cn/
     - term: 开源硬件
       links: 
+        - title: electronics-lab
+          description: 开源硬件项目
+          url: https://www.electronics-lab.com/
         - title: 野火所有产品的封装库
           description: 
           url: http://doc.embedfire.com/products/link/zh/latest/pcb/ebf_pcblib.html
@@ -497,6 +483,9 @@
         - title: Dribbble
           description: 设计作品网站
           url: https://dribbble.com/
+        - title: IconPark
+          description: 字节出品免费图标库
+          url: https://iconpark.oceanengine.com/official
         - title: iconfont
           description: 阿里巴巴矢量图标库
           url: http://www.iconfont.cn/
