@@ -855,7 +855,7 @@
 
 
 - taxonomy: 影视
-  icon: fa-file-video-o
+  icon: linecons-compass
   links: 
     - title: 磁力岛
       description: 查找磁力资源
