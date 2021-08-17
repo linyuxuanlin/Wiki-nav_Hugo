@@ -195,7 +195,7 @@
           description: 
           url: http://www.chiphome.com/symbol_index.html
         
-    - term: 在线工具
+    - term: 网页工具
       links: 
         - title: TopLine
           description: 封装查询
@@ -854,6 +854,15 @@
       url: https://my.clippings.io/#
 
 
+- taxonomy: 影视
+  icon: linecons-video
+  links: 
+    - title: 磁力岛
+      description: 查找磁力资源
+      url: https://bt000.xyz/
+    - title: Webtor
+      description: 在线播放磁力
+      url: https://webtor.io/
 
 - taxonomy: 音乐
   icon: linecons-music
