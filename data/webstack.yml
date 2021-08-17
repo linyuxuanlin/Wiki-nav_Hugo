@@ -60,6 +60,9 @@
           url: http://www.3dcontentcentral.com.cn/
     - term: 开源硬件
       links: 
+        - title: Seeed
+          description: Seeed 的开源产品
+          url: https://wiki.seeedstudio.com/
         - title: electronics-lab
           description: 开源硬件项目
           url: https://www.electronics-lab.com/
@@ -84,9 +87,6 @@
         - title: 正点原子资料下载中心
           description: 
           url: http://www.openedv.com/docs/index.html
-        - title: Seeed
-          description: Seeed 的开源产品
-          url: https://wiki.seeedstudio.com/
         - title: Pololu
           description: 开源硬件商城
           url: https://www.pololu.com/
