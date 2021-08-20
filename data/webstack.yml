@@ -31,6 +31,7 @@
         
     - term: 网页工具
       links: 
+        
         - title: TopLine
           description: 封装查询
           url: https://www.topline.tv/
@@ -58,6 +59,9 @@
         - title: 3D Content Central
           description: 很全的元器件封装 3D 模型
           url: http://www.3dcontentcentral.com.cn/
+        - title: Voltage Divider Calculator
+          description: 分压计算器
+          url: https://ohmslawcalculator.com/voltage-divider-calculator
     - term: 开源硬件
       links: 
         - title: Seeed
