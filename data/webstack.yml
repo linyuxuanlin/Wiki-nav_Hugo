@@ -695,6 +695,9 @@
 - taxonomy: 影视
   icon: linecons-tv
   links: 
+    - title: 人人影视资源
+      description: 磁力资源等
+      url: https://yyets.dmesg.app/search
     - title: 磁力岛
       description: 查找磁力资源
       url: https://bt000.xyz/
