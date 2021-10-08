@@ -73,6 +73,12 @@
           description: 
           url: http://www.chiphome.com/symbol_index.html
         
+    - term: 论坛
+      links: 
+        - title: WhyCan Forum
+          description: 挖坑网
+          url: https://whycan.com/forumlist.php
+
     - term: 网页工具
       links: 
         
