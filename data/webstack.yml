@@ -55,6 +55,9 @@
     - title: BOBI83
       description: Bobi
       url: https://bobi.site/
+    - title: ZJP
+      description: ZJP
+      url: https://myblog-gamma-olive.vercel.app/
 
 - taxonomy: 电路设计
   icon: linecons-beaker
