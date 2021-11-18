@@ -85,7 +85,9 @@
 
     - term: 网页工具
       links: 
-        
+        - title: 封装、质量、原理图符号和尺寸
+          description: ADI 整理的常用封装资料
+          url: https://www.analog.com/cn/design-center/packaging-quality-symbols-footprints.html
         - title: TopLine
           description: 封装查询
           url: https://www.topline.tv/
