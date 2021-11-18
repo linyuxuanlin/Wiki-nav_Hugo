@@ -94,6 +94,9 @@
         - title: TopLine
           description: 封装查询
           url: https://www.topline.tv/
+        - title: 傅里叶变换交互式入门
+          description: 通过交互式动画直观了解傅里叶变换
+          url: https://www.jezzamon.com/fourier/zh-cn.html
         - title: 滤波器设计
           description: 滤波器参考设计
           url: http://sim.okawa-denshi.jp/en/Fkeisan.htm
