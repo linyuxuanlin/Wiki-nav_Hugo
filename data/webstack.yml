@@ -7,9 +7,12 @@
     - title: Seeed
       description: Seeed Wiki
       url: https://wiki.seeedstudio.com/
+    - title: 野狼队知识库
+      description: 队员们的博客收录
+      url: https://nav.wildwolf.pw/
     - title: 野狼博客导航
       description: 队员们的博客收录
-      url: https://nav.wildwolf.tech/
+      url: https://nav.wildwolf.pw/
     - title: WAI 科技社
       description: Weixiang 的科技社
       url: https://www.waitech.cn/
