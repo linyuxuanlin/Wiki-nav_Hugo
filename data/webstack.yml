@@ -7,9 +7,12 @@
     - title: Seeed
       description: Seeed Wiki
       url: https://wiki.seeedstudio.com/
+    - title: 野狼队知识库
+      description: 公开知识库
+      url: https://wiki.wildwolf.pw/
     - title: 野狼博客导航
       description: 队员们的博客收录
-      url: https://nav.wildwolf.tech/
+      url: https://nav.wildwolf.pw/
     - title: WAI 科技社
       description: Weixiang 的科技社
       url: https://www.waitech.cn/
@@ -74,18 +77,29 @@
           description: 
           url: http://www.chiphome.com/symbol_index.html
         
-    - term: 论坛
+    - term: 论坛与个人站点
       links: 
         - title: WhyCan Forum
           description: 挖坑网
           url: https://whycan.com/forumlist.php
+        - title: 硬件设计 · 面包板
+          description: 面包板社区论坛
+          url: https://mbb.eet-china.com/forum.php?gid=66
+        - title: MaZhaoxin's Blog
+          description: Keep thinking, keep moving
+          url: https://mazhaoxin.github.io/
 
     - term: 网页工具
       links: 
-        
+        - title: 封装、质量、原理图符号和尺寸
+          description: ADI 整理的常用封装资料
+          url: https://www.analog.com/cn/design-center/packaging-quality-symbols-footprints.html
         - title: TopLine
           description: 封装查询
           url: https://www.topline.tv/
+        - title: 傅里叶变换交互式入门
+          description: 通过交互式动画直观了解傅里叶变换
+          url: https://www.jezzamon.com/fourier/zh-cn.html
         - title: 滤波器设计
           description: 滤波器参考设计
           url: http://sim.okawa-denshi.jp/en/Fkeisan.htm
