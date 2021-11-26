@@ -88,6 +88,12 @@
         - title: MaZhaoxin's Blog
           description: Keep thinking, keep moving
           url: https://mazhaoxin.github.io/
+        - title: 电子设计·张海鹏的个人网站
+          description: 
+          url: https://haipeng.me/category/electronics/
+        - title: 陆宇的个人博客
+          description: 
+          url: https://blog.infonet.io/
 
     - term: 网页工具
       links: 
@@ -113,7 +119,7 @@
           description: 
           url: https://tool.520101.com/dianlu/diangonglv/
         - title: EDA365 在线工具
-          description: 
+          description: 在线电路计算（阻抗、载流）
           url: https://www.eda365.com/eda365libs/edacalc/
         - title: CircuitJS
           description: 很强的电路在线仿真工具
@@ -595,6 +601,9 @@
         - title: Weibo to RSS
           description: 微博转 RSS
           url: https://rssfeed.today/weibo/
+        - title: foxyutils
+          description: 在线可编辑 PDF 的工具
+          url: https://foxyutils.com/zh/
         - title: PDF24 Tools
           description: 免费且易于使用的在线 PDF 工具
           url: https://tools.pdf24.org/zh/
