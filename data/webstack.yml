@@ -820,6 +820,9 @@
     - title: 中国知网
       description: 从广州图书馆入口免费访问知网
       url: http://sso.gzlib.org.cn/interlibSSO/goto/75/++9bmjh9mds/
+    - title: 伪原创工具
+      description: 
+      url: https://mozhi.vip/tool/19
 
 
 - taxonomy: 优质博客
