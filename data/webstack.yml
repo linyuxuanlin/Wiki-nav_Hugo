@@ -820,6 +820,9 @@
     - title: 中国知网
       description: 从广州图书馆入口免费访问知网
       url: http://sso.gzlib.org.cn/interlibSSO/goto/75/++9bmjh9mds/
+    - title: 维普毕业论文管理系统
+      description: 
+      url: https://vgms.fanyu.com/
     - title: 伪原创工具
       description: 
       url: https://mozhi.vip/tool/19
