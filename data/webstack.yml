@@ -61,6 +61,9 @@
     - title: ZJP
       description: ZJP
       url: https://myblog-gamma-olive.vercel.app/
+    - title: 一大加贝的博客
+      description: 志同道合的友人
+      url: https://www.yidajiabei.xyz/
 
 - taxonomy: 电路设计
   icon: linecons-beaker
