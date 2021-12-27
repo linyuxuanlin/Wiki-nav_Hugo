@@ -64,6 +64,9 @@
     - title: 一大加贝的博客
       description: 志同道合的友人
       url: https://www.yidajiabei.xyz/
+    - title: Ylt's Wiki
+      description: 机器人软硬件全栈工程师
+      url: https://www.yltzdhbc.top/
 
 - taxonomy: 电路设计
   icon: linecons-beaker
