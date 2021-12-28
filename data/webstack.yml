@@ -206,58 +206,58 @@
         - title: 元器件封装查询
           description: 
           url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/%E5%85%83%E5%99%A8%E4%BB%B6%E5%B0%81%E8%A3%85%E6%9F%A5%E8%AF%A2.pdf
-    - term: 公众号推荐
-      links: 
-        - title: 电子电路
-          description: （推荐）
-          url: https://weixin.qq.com/
-        - title: 达尔文说
-          description: （推荐）
-          url: https://weixin.qq.com/
-        - title: 硬件十万个为什么
-          description: （推荐）
-          url: https://weixin.qq.com/
-        - title: 嵌入式专栏
-          description: （推荐）
-          url: https://weixin.qq.com/
-        - title: 电子森林
-          description: （推荐）
-          url: https://weixin.qq.com/
-        - title: 芯片电子之家
-          description: （推荐）
-          url: https://weixin.qq.com/
-        - title: 安富莱电子
-          description: （推荐）
-          url: https://weixin.qq.com/
-        - title: 路飞的电子设计宝藏
-          description: （推荐）
-          url: https://weixin.qq.com/
-        - title: strongerHuang
-          description: （推荐）
-          url: https://weixin.qq.com/
-        - title: 跳动的字节
-          description: （推荐）
-          url: https://weixin.qq.com/
-        - title: 心向梦往
-          url: https://weixin.qq.com/
-        - title: 电子芯
-          url: https://weixin.qq.com/
-        - title: 电力电子技术与新能源
-          url: https://weixin.qq.com/
-        - title: 张飞实战电子
-          url: https://weixin.qq.com/
-        - title: 硬禾学堂
-          url: https://weixin.qq.com/
-        - title: STM32 单片机
-          url: https://weixin.qq.com/
-        - title: 芯片之家
-          url: https://weixin.qq.com/
-        - title: 凡忆 PCB
-          url: https://weixin.qq.com/
-        - title: 电路设计技能
-          url: https://weixin.qq.com/
-        - title: 硬件产品经理杂谈
-          url: https://weixin.qq.com/
+#     - term: 公众号推荐
+#       links: 
+#         - title: 电子电路
+#           description: （推荐）
+#           url: https://weixin.qq.com/
+#         - title: 达尔文说
+#           description: （推荐）
+#           url: https://weixin.qq.com/
+#         - title: 硬件十万个为什么
+#           description: （推荐）
+#           url: https://weixin.qq.com/
+#         - title: 嵌入式专栏
+#           description: （推荐）
+#           url: https://weixin.qq.com/
+#         - title: 电子森林
+#           description: （推荐）
+#           url: https://weixin.qq.com/
+#         - title: 芯片电子之家
+#           description: （推荐）
+#           url: https://weixin.qq.com/
+#         - title: 安富莱电子
+#           description: （推荐）
+#           url: https://weixin.qq.com/
+#         - title: 路飞的电子设计宝藏
+#           description: （推荐）
+#           url: https://weixin.qq.com/
+#         - title: strongerHuang
+#           description: （推荐）
+#           url: https://weixin.qq.com/
+#         - title: 跳动的字节
+#           description: （推荐）
+#           url: https://weixin.qq.com/
+#         - title: 心向梦往
+#           url: https://weixin.qq.com/
+#         - title: 电子芯
+#           url: https://weixin.qq.com/
+#         - title: 电力电子技术与新能源
+#           url: https://weixin.qq.com/
+#         - title: 张飞实战电子
+#           url: https://weixin.qq.com/
+#         - title: 硬禾学堂
+#           url: https://weixin.qq.com/
+#         - title: STM32 单片机
+#           url: https://weixin.qq.com/
+#         - title: 芯片之家
+#           url: https://weixin.qq.com/
+#         - title: 凡忆 PCB
+#           url: https://weixin.qq.com/
+#         - title: 电路设计技能
+#           url: https://weixin.qq.com/
+#         - title: 硬件产品经理杂谈
+#           url: https://weixin.qq.com/
 
 
 
