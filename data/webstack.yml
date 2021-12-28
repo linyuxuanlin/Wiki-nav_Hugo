@@ -148,6 +148,12 @@
         - title: TI 培训
           description: TI 的一些视频教程
           url: https://edu.21ic.com/
+        - title: Altium Designer Documentation
+          description: AD 官方教程文档
+          url: https://www.altium.com/documentation/altium-designer
+        - title: Altium Designer 文档
+          description: AD 官方教程文档（部分翻译中文）
+          url: https://www.altium.com/cn/documentation/altium-designer
 
     - term: 开源硬件
       links: 
