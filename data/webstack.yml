@@ -88,6 +88,9 @@
         - title: TopLine
           description: 封装查询
           url: https://www.topline.tv/
+        - title: 封装、质量、原理图符号和尺寸
+          description: ADI 整理的常用封装资料
+          url: https://www.analog.com/cn/design-center/packaging-quality-symbols-footprints.html
 
     - term: 论坛 / 个人博客
       links: 
@@ -109,9 +112,6 @@
 
     - term: 硬件设计工具
       links: 
-        - title: 封装、质量、原理图符号和尺寸
-          description: ADI 整理的常用封装资料
-          url: https://www.analog.com/cn/design-center/packaging-quality-symbols-footprints.html
         - title: 傅里叶变换交互式入门
           description: 通过交互式动画直观了解傅里叶变换
           url: https://www.jezzamon.com/fourier/zh-cn.html
