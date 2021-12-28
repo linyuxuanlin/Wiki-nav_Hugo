@@ -157,8 +157,8 @@
 
     - term: 开源硬件
       links: 
-        - title: Seeed
-          description: Seeed 的开源产品
+        - title: Seeed Wiki
+          description: Seeed 的开源产品文档
           url: https://wiki.seeedstudio.com/
         - title: ALTIUM DESIGNER PROJECTS
           description: AD 开源项目
