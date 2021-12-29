@@ -154,6 +154,10 @@
         - title: Altium Designer 文档
           description: AD 官方教程文档（部分翻译中文）
           url: https://www.altium.com/cn/documentation/altium-designer
+        - title: 硬件工程师书单
+          description: 很全的一个书单
+          url: https://docs.qq.com/sheet/DRU9BWWZRU1NQRWpW?tab=BB08J2
+
 
     - term: 开源硬件
       links: 
