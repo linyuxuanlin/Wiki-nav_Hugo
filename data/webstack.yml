@@ -846,6 +846,9 @@
 - taxonomy: 学术
   icon: linecons-doc
   links: 
+    - title: SciHub 学术导航
+      description: 各种学术工具
+      url: https://www.scihub.net.cn/
     - title: 中国知网
       description: 从广州图书馆入口免费访问知网
       url: http://sso.gzlib.org.cn/interlibSSO/goto/75/++9bmjh9mds/
