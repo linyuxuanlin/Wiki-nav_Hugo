@@ -805,6 +805,12 @@
     - title: Zlibrary
       description: 很全的资源站
       url: https://1lib.us/s/
+    - title: 中国哲学书电子化计划
+      description: 提供中国历代传世文献
+      url: https://ctext.org/zhs
+    - title: 书格
+      description: 提供古籍的高清彩色影像版本 PDF 文件下载
+      url: https://new.shuge.org/
 
 
 - taxonomy: 影视
