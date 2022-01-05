@@ -91,6 +91,9 @@
         - title: 封装、质量、原理图符号和尺寸
           description: ADI 整理的常用封装资料
           url: https://www.analog.com/cn/design-center/packaging-quality-symbols-footprints.html
+        - title: 封装信息·MPS
+          description: MPS 整理的常用封装资料
+          url: https://www.monolithicpower.cn/cn/support/package-information.html
 
     - term: 论坛 / 个人博客
       links: 
