@@ -286,6 +286,9 @@
   list:
     - term: STM32
       links: 
+        - title: 给新手的两轮自平衡小车开发实战指南
+          description: 基于 STM32F4（HAL）的自平衡小车开发指南（很齐全）
+          url: https://c.miaowlabs.com/
         - title: STM32 手册大全
           description: STM32 各型号数据手册、工具应用笔记等（中英文文档）
           url: https://www.stmcu.org.cn/document/list/index/category-150
