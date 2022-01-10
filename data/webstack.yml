@@ -124,6 +124,9 @@
         - title: 小白自制 Linux 开发板（F1C200s）整理系列
           description: 
           url: https://whycan.com/t_7275.html
+        - title: 荔枝派 Zero
+          description: 
+          url: http://licheezero.rtfd.io/
 
 
     - term: 硬件设计工具
