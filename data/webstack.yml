@@ -79,6 +79,9 @@
         - title: SnapEDA
           description: Focus on design with ready-to-use PCB footprints and schematic symbols
           url: https://www.snapeda.com/home/
+        - title: Component Search Engine
+          description: 封装查询下载
+          url: https://componentsearchengine.com/
         - title: 芯片之家
           description: 
           url: http://www.chiphome.com/symbol_index.html
