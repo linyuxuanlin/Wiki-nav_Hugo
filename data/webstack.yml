@@ -137,6 +137,9 @@
         - title: 远处有泽细细说
           description: 
           url: https://yuanze.wang/
+        - title: module Zephray
+          description: （FPGA 入门可以看这里）
+          url: https://www.zephray.me/
 
 
     - term: 硬件设计工具
