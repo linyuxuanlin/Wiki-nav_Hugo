@@ -628,6 +628,9 @@
   list:
     - term: 在线工具
       links: 
+        - title: 泛域名证书申请
+          description: 提供 DNSAPI，自助为域名申请证书
+          url: https://ssl.ioiox.com/
         - title: markmap
           description: 在线使用 markdown 绘制思维导图
           url: https://markmap.js.org/repl
