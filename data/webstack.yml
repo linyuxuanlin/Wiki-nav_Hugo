@@ -348,7 +348,6 @@
         - title: 树莓派实验室
           description: 教程 · 创意 · 作品 · 资讯 · 硬件
           url: http://shumeipai.nxez.com/
-          url: http://www.52pi.net/
         - title: Open Electronics
           description: 一些 Arduino 项目
           url: http://www.open-electronics.org/category/opensourceprojects/
@@ -616,7 +615,6 @@
         - title: 《Think Python 2e》
           description: 最新中文翻译版本
           url: https://codingpy.com/books/thinkpython2/index.html#think-python-2e
-      links:
         - title: 《GitHub 漫游指南》
           description: 
           url: https://github.com/linyuxuanlin/File-host/blob/main/software-development/GitHub%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97.pdf
@@ -845,6 +843,9 @@
     - title: 书格
       description: 提供古籍的高清彩色影像版本 PDF 文件下载
       url: https://new.shuge.org/
+    - title: Internet Archive
+      description: 互联网存档
+      url: https://archive.org/
 
 
 - taxonomy: 影视
@@ -859,10 +860,16 @@
     - title: Webtor
       description: 在线播放磁力
       url: https://webtor.io/
+    - title: Internet Archive
+      description: 互联网存档
+      url: https://archive.org/
 
 - taxonomy: 音乐
   icon: linecons-music
   links: 
+    - title: Internet Archive
+      description: 互联网存档
+      url: https://archive.org/
     - title: MP3 PAW
       description: 在线下载 MP3 资源
       url: https://mp3paw.com/
@@ -898,6 +905,9 @@
     - title: 伪原创工具
       description: 
       url: https://mozhi.vip/tool/19
+    - title: PaperYY
+      description: 每日一次免费查重
+      url: https://www.paperyy.com/
 
 
 - taxonomy: 优质博客
