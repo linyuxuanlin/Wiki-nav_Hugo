@@ -150,6 +150,12 @@
         - title: 滤波器设计
           description: 滤波器参考设计
           url: http://sim.okawa-denshi.jp/en/Fkeisan.htm
+        - title: Fliter Design Tool
+          description: TI 滤波器设计工具
+          url: https://webench.ti.com/filter-design-tool/filter-type
+        - title: LC Filter Design Tool
+          description: RF-tools 的滤波器设计工具
+          url: https://rf-tools.com/lc-filter/
         - title: webench
           description: TI 电源选型工具
           url: https://webench.ti.com/power-designer/
