@@ -70,13 +70,15 @@
     - title: 求知若饥，知行合一
       description: 一个中科院博士僧的博客（视觉、机器学习、阅读）
       url: http://lanbing510.info/
-
+    - title: CS 自学指南
+      description: CS 自学指南
+      url: https://csdiy.wiki/
 
 - taxonomy: 电路设计
   icon: linecons-beaker
   list:
     - term: 元器件符号 / 封装
-      links: 
+      links:
         - title: Ultra Librarian
           description: World’s Largest PCB CAD Library
           url: https://www.ultralibrarian.com/
@@ -87,7 +89,7 @@
           description: 封装查询下载
           url: https://componentsearchengine.com/
         - title: 芯片之家
-          description: 
+          description:
           url: http://www.chiphome.com/symbol_index.html
         - title: 3D Content Central
           description: 很全的元器件封装 3D 模型
@@ -103,7 +105,7 @@
           url: https://www.monolithicpower.cn/cn/support/package-information.html
 
     - term: 论坛 / 个人博客
-      links: 
+      links:
         - title: 硬件设计 · 面包板
           description: 面包板社区论坛
           url: https://mbb.eet-china.com/forum.php?gid=66
@@ -114,36 +116,35 @@
           description: Keep thinking, keep moving
           url: https://mazhaoxin.github.io/
         - title: 电子设计·张海鹏的个人网站
-          description: 
+          description:
           url: https://haipeng.me/category/electronics/
         - title: 陆宇的个人博客
-          description: 
+          description:
           url: https://blog.infonet.io/
         - title: 欢庆的主页
-          description: 
+          description:
           url: https://huanqingwu.github.io/
         - title: 芯跳不止
-          description: 
+          description:
           url: http://www.mazirong.com/
         - title: MUSE LAB
-          description: 
+          description:
           url: https://www.muselab-tech.com/
         - title: 小白自制 Linux 开发板（F1C200s）整理系列
-          description: 
+          description:
           url: https://whycan.com/t_7275.html
         - title: 荔枝派 Zero
-          description: 
+          description:
           url: http://licheezero.rtfd.io/
         - title: 远处有泽细细说
-          description: 
+          description:
           url: https://yuanze.wang/
         - title: module Zephray
           description: （FPGA 入门可以看这里）
           url: https://www.zephray.me/
 
-
     - term: 硬件设计工具
-      links: 
+      links:
         - title: 傅里叶变换交互式入门
           description: 通过交互式动画直观了解傅里叶变换
           url: https://www.jezzamon.com/fourier/zh-cn.html
@@ -160,10 +161,10 @@
           description: TI 电源选型工具
           url: https://webench.ti.com/power-designer/
         - title: TI 参考设计
-          description: 
+          description:
           url: http://www.ti.com.cn/cn/reference-designs/index.html
         - title: 实用工具大全
-          description: 
+          description:
           url: https://tool.520101.com/dianlu/diangonglv/
         - title: EDA365 在线工具
           description: 在线电路计算（阻抗、载流）
@@ -178,10 +179,10 @@
           description: 分压计算器
           url: https://ohmslawcalculator.com/voltage-divider-calculator
         - title: 常用电子元器件
-          description: 
+          description:
           url: https://www.eetree.cn/wiki/%E5%B8%B8%E7%94%A8%E7%94%B5%E5%AD%90%E5%85%83%E5%99%A8%E4%BB%B6
         - title: 电子工程师的资源网站大全
-          description: 
+          description:
           url: https://www.eetree.cn/wiki/
         - title: TI 培训
           description: TI 的一些视频教程
@@ -196,9 +197,8 @@
           description: 很全的一个书单
           url: https://docs.qq.com/sheet/DRU9BWWZRU1NQRWpW?tab=BB08J2
 
-
     - term: 开源硬件
-      links: 
+      links:
         - title: Seeed Wiki
           description: Seeed 的开源产品文档
           url: https://wiki.seeedstudio.com/
@@ -209,56 +209,55 @@
           description: 开源硬件项目
           url: https://www.electronics-lab.com/
         - title: 野火所有产品的封装库
-          description: 
+          description:
           url: http://doc.embedfire.com/products/link/zh/latest/pcb/ebf_pcblib.html
-        - title: 野火产品资料下载中心 
-          description: 
+        - title: 野火产品资料下载中心
+          description:
           url: http://doc.embedfire.com/products/link/zh/latest/index.html
         - title: 技新 · 产品中心
-          description: 
+          description:
           url: https://www.jixin.pro/shop
         - title: 立创开源硬件平台
-          description: 
+          description:
           url: https://oshwhub.com/
         - title: DFRobot
           description: DFRobot 的 wiki
           url: http://wiki.dfrobot.com.cn/
         - title: 硬石开源资料下载
-          description: 
+          description:
           url: http://www.ing10bbs.com/forum.php?mod=viewthread&tid=1458&fromuid=4
         - title: 正点原子资料下载中心
-          description: 
+          description:
           url: http://www.openedv.com/docs/index.html
         - title: Pololu
           description: 开源硬件商城
           url: https://www.pololu.com/
 
-
 #    - term: 学习资源
-#      links: 
+#      links:
 #        - title: 《模拟工程师口袋参考书》
 #          description: TI 的教材
 #          url: https://www.ti.com/seclit/eb/slyw038c/slyw038c.pdf?ts=1630765043196&ref_url=https%253A%252F%252Flogin.ti.com%252F
 #        - title: ADI《新概念模拟电路》全五册
-#          description: 
+#          description:
 #          url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/ADI%E3%80%8A%E6%96%B0%E6%A6%82%E5%BF%B5%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E3%80%8B%E5%85%A8%E4%BA%94%E5%86%8C.pdf
 #        - title: 读懂电路图
 #          description: 《工程师教你最简单的读懂电路图的方法》
 #          url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/%E3%80%8A%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%95%99%E4%BD%A0%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E8%AF%BB%E6%87%82%E7%94%B5%E8%B7%AF%E5%9B%BE%E7%9A%84%E6%96%B9%E6%B3%95%E3%80%8B.pdf
 #        - title: 硬十资料
-#          description: 
+#          description:
 #          url: https://github.com/linyuxuanlin/File-host/tree/main/circuit-design/%E7%A1%AC%E5%8D%81%E8%B5%84%E6%96%99
 #        - title: 凡亿原创电子技术干货文章
 #          description: 包含 `单片机的复位电路` `采样电路的运用和设计` 等 13 篇技术文章
 #          url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/%E5%87%A1%E4%BA%BF%E5%8E%9F%E5%88%9B%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%B9%B2%E8%B4%A7%E6%96%87%E7%AB%A0
 #        - title: EMC 设计标准电路
-#          description: 
+#          description:
 #          url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/EMC%E8%AE%BE%E8%AE%A1%E6%A0%87%E5%87%86%E7%94%B5%E8%B7%AF
 #        - title: 元器件封装查询
-#          description: 
+#          description:
 #          url: https://github.com/linyuxuanlin/File-host/blob/main/circuit-design/%E5%85%83%E5%99%A8%E4%BB%B6%E5%B0%81%E8%A3%85%E6%9F%A5%E8%AF%A2.pdf
 #     - term: 公众号推荐
-#       links: 
+#       links:
 #         - title: 电子电路
 #           description: （推荐）
 #           url: https://weixin.qq.com/
@@ -310,13 +309,11 @@
 #         - title: 硬件产品经理杂谈
 #           url: https://weixin.qq.com/
 
-
-
 - taxonomy: 嵌入式
   icon: linecons-params
   list:
     - term: STM32
-      links: 
+      links:
         - title: 给新手的两轮自平衡小车开发实战指南
           description: 基于 STM32F4（HAL）的自平衡小车开发指南（很齐全）
           url: https://c.miaowlabs.com/
@@ -330,7 +327,7 @@
           description: ESP8266 / 嵌入式 / 树莓派项目
           url: https://space.bilibili.com/14010836?spm_id_from=333.788.b_765f7570696e666f.1
     - term: Arduino 与树莓派
-      links: 
+      links:
         - title: 创客导航
           description: 各种周边资源网站
           url: http://mc.dfrobot.com.cn/links/
@@ -395,7 +392,7 @@
           url: https://www.hacksmith.tech/
         - title: Madox.NET
           description: 一个嵌入式博客
-          url: http://www.madox.net/blog/ 
+          url: http://www.madox.net/blog/
         - title: mobilerobots.pl
           description: 各种轮式机器人
           url: http://mobilerobots.pl/
@@ -415,7 +412,7 @@
           description: 一些与 ESP8266/OLED 相关的项目
           url: https://0miker0.wordpress.com
     - term: 3D 打印相关
-      links: 
+      links:
         - title: Thingiverse
           description: 3D 模型站
           url: http://www.thingiverse.com/
@@ -434,13 +431,13 @@
         - title: InMoov
           description: 开源 3D 打印人形机器人
           url: http://inmoov.fr/build-yours/
-        - title: p3d.in 
+        - title: p3d.in
           description: 在线预览 3D 模型
           url: http://p3d.in/
-        - title: Sketchfab 
+        - title: Sketchfab
           description: 在线预览 3D 模型
           url: https://sketchfab.com/
-        - title: MyMiniFactory 
+        - title: MyMiniFactory
           description: 3D 微缩模型资源站
           url: https://www.myminifactory.com/
         - title: 3D Content Central
@@ -458,8 +455,6 @@
         - title: All3DP
           description: 3D 模型站
           url: https://all3dp.com/printables/
-
-
 
 - taxonomy: 设计相关
   icon: linecons-pencil
@@ -520,7 +515,7 @@
         - title: Favicon Generator. For real.
           description: 上传图片，生成各种版本的 Favicon 与内嵌代码
           url: https://realfavicongenerator.net/
-        - title:  The museum
+        - title: The museum
           description: 博物馆无版权图片
           url: https://www.artic.edu/collection
         - title: StrawBerry Icon
@@ -580,8 +575,6 @@
           description: 很全的资源贴
           url: https://www.zhihu.com/question/50821464/answer/191409645?utm_source=qq&utm_medium=social
 
-
-
 - taxonomy: 软件开发
   icon: linecons-desktop
   list:
@@ -622,16 +615,14 @@
           description: 最新中文翻译版本
           url: https://codingpy.com/books/thinkpython2/index.html#think-python-2e
         - title: 《GitHub 漫游指南》
-          description: 
+          description:
           url: https://github.com/linyuxuanlin/File-host/blob/main/software-development/GitHub%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97.pdf
-
-
 
 - taxonomy: 工具
   icon: linecons-cog
   list:
     - term: 在线工具
-      links: 
+      links:
         - title: 泛域名证书申请
           description: 提供 DNSAPI，自助为域名申请证书
           url: https://ssl.ioiox.com/
@@ -749,7 +740,7 @@
         - title: 在线短信接收 - 接码号
           description: 接码平台
           url: https://jiemahao.com/
-        - title: 在线短信接收 
+        - title: 在线短信接收
           description: 接码平台
           url: https://www.materialtools.com/?page=1
         - title: File Destructor 2.0
@@ -777,9 +768,8 @@
           description: 在线玩各种经典游戏
           url: http://lab.mkblog.cn/FCGames/#/
 
-
     - term: 软件资源
-      links: 
+      links:
         - title: 果壳剥壳
           description: 绿色便携软件站点（Windows/Android）
           url: https://www.ghpym.com/
@@ -811,11 +801,9 @@
           description: 下载 Google Play 的 .apk 文件
           url: https://apk-dl.com/
 
-
-
 - taxonomy: 阅读
   icon: linecons-inbox
-  links: 
+  links:
     - title: 全国图书馆参考咨询联盟
       description: 最全的中文书籍站点
       url: http://www.ucdrs.superlib.net/
@@ -853,10 +841,9 @@
       description: 互联网存档
       url: https://archive.org/
 
-
 - taxonomy: 影视
   icon: linecons-tv
-  links: 
+  links:
     - title: 人人影视资源
       description: 磁力资源等
       url: https://yyets.dmesg.app/search
@@ -872,7 +859,7 @@
 
 - taxonomy: 音乐
   icon: linecons-music
-  links: 
+  links:
     - title: Internet Archive
       description: 互联网存档
       url: https://archive.org/
@@ -895,10 +882,9 @@
       description: 用日常的声音创造鼓点
       url: https://experiments.withgoogle.com/ai/drum-machine/view/
 
-
 - taxonomy: 学术
   icon: linecons-doc
-  links: 
+  links:
     - title: SciHub 学术导航
       description: 各种学术工具
       url: https://www.scihub.net.cn/
@@ -906,181 +892,180 @@
       description: 从广州图书馆入口免费访问知网
       url: http://sso.gzlib.org.cn/interlibSSO/goto/75/++9bmjh9mds/
     - title: 维普毕业论文管理系统
-      description: 
+      description:
       url: https://vgms.fanyu.com/
     - title: 伪原创工具
-      description: 
+      description:
       url: https://mozhi.vip/tool/19
     - title: PaperYY
       description: 每日一次免费查重
       url: https://www.paperyy.com/
 
-
 - taxonomy: 优质博客
   icon: linecons-note
-  links: 
-  - title: 《交大生存手册》
-    description: 我们能从大学教育里获得什么？
-    url: https://survivesjtu.gitbook.io/survivesjtumanual/
-  - title: 黄树超
-    description: 嵌入式工程师
-    url: https://www.cnblogs.com/schips/
-  - title: AresX's Blog
-    description: wubba lubba dub dub.
-    url: https://ares-x.com/
-  - title: 城中村群租房
-    description: 一些写得不错的文章
-    url: https://www.darmau.com/
-  - title: read and go
-    description: 一些启发性的随想
-    url: https://unee.wang/
-  - title: 小土刀 2.0
-    description: 一些启发性的随想
-    url: https://wdxtub.com/
-  - title: FROYO's Blog
-    description: 把握现在，拥抱未来
-    url: http://www.izhuyue.com/
-  - title: 李笑来作品集
-    description: 人生的尴尬在于之前决策的时候并不可能有之后那么丰富的经验……
-    url: http://lixiaolai.com/
-  - title: Peng Gu
-    description: Live with less. Share with more.
-    url: https://medium.com/@peng/latest
-  - title: 土木坛子
-    description: 和光同尘，与时舒卷
-    url: https://tumutanzi.com/
-  - title: 技术笔记 - 阳志平的网志
-    description: 致力于认知科学的产品开发、课程设计与科学传播。
-    url: http://www.yangzhiping.com/tech/
-  - title: Jason
-    description: 很有意思的每日随想
-    url: https://atjason.com/
-  - title: 不如
-    description: 码农，程序猿，未来的昏析狮
-    url: http://ibruce.info/
-  - title: 达夕博客
-    description: 关注工作效率/提高生产力/数字化工作/优秀软件
-    url: https://www.daxiblog.com/
-  - title: MADE(by)FRUTOS
-    description: 一些与 Arduino 相关的个人作品
-    url: https://madebyfrutos.wordpress.com/
-  - title: 0miker0's Blog
-    description: Arduino and various other projects
-    url: https://0miker0.wordpress.com/
-  - title: ARuFa の日記
-    description: 脑洞奇大的 DIY 博主
-    url: http://arufa.hatenablog.jp/
-  - title: 稚晖的个人站
-    description: 十年饮冰，难凉热血
-    url: http://pengzhihui.xyz/
-  - title: cevinius
-    description: MobBob 机器人的作者
-    url: https://www.cevinius.com/
-  - title: Do U Find IT?
-    description: 一个有意思的嵌入式博主
-    url: http://www.chaosgoo.com/
-  - title: 小木・年轮
-    description: 一个有趣的技术博客
-    url: http://caiyao.name/
-  - title: 萨摩的部落格
-    description: 掉毛中……
-    url: https://i-meto.com/
-  - title: reuixiy
-    description: 一个技术博客
-    url: https://io-oi.me/
-  - title: Moorez
-    description: 一个技术博客
-    url: http://shenzekun.cn/
-  - title: ookamiAntD's Blog
-    description: Easy codingeasy life.
-    url: https://yangbingdong.com/
-  - title: IT草根
-    description: 有意思的随想
-    url: http://codepub.cn/
-  - title: 无垠
-    description: 飞翔的天空无限大
-    url: https://img.flyhigher.top/wp-content/uploads/2017/01/cropped-touch-1.png?imageView2/1/w/64/h/64/interlace/1/q/90#
-  - title: 木木木木木
-    description: 有意思的技术博客
-    url: https://immmmm.com/
-  - title: Colmugx's Blog
-    description: 让一切充满想象力
-    url: https://colmugx.github.io/blog/
-  - title: 始终
-    description: 不忘初心
-    url: https://liam.page/
-  - title: 裂帛碎玉的想法
-    description: 有意思的技术博客
-    url: https://blog.vvzero.com/
-  - title: MAYBEIWILL
-    description: 有意思的随想
-    url: https://maybeiwill.me/
-  - title: 也而的博客
-    description: 在天涯和海角 放石头和葡萄
-    url: https://zoomyale.com/
-  - title: Spencer's Blog
-    description: 阿巴阿巴 o ((>ω<)) o
-    url: https://blog.spencerwoo.com/
-  - title: JeeH
-    description: Headers for framework- and platform-agnostic code
-    url: https://jeelabs.org/projects/jeeh/
-  - title: LT
-    description: Revolutionary Road
-    url: http://blog.davidrobot.com/
-  - title: 林海草原
-    description: 一些有意思的随想
-    url: https://lhcy.org/
-  - title: 何世友的日志
-    description: 一些有意思的杂谈
-    url: https://ernest.me/
-  - title: Matrix67
-    description: 有趣的数学知识
-    url: http://www.matrix67.com/blog/
-  - title: Ja50n - go ahead
-    description: 想什么呢，一直往前走
-    url: https://blog.ulinkmega.com/
-  - title: Liaoyuqin
-    description: Write drunk edit sober. I am a lovely pirate.
-    url: https://www.liaoyuqin.com/
-  - title: 周良粥凉
-    description: 有意思的随想
-    url: https://ericec.cn/
-  - title: 从良未遂
-    description: 有事就做事，没事叼根烟
-    url: https://www.ithmz.com/
-  - title: INFORX
-    description: 技术博客
-    url: https://inforscan.com/
-  - title: MacTalk-池建强的随想录
-    description: 关注技术和人文
-    url: http://macshuo.com/
-  - title: 阮一峰的网络日志
-    description: 技术博客
-    url: http://www.ruanyifeng.com/blog/
-  - title: 千橙工坊
-    description: 做有温度的金融科技
-    url: https://www.qiancheng.me/
-  - title: 掘墓人的小铲子
-    description: 有意思的科技文
-    url: https://juemuren4449.com/
-  - title: 咖啡入门书
-    description: 系统了解咖啡的相关知识
-    url: https://kaix.in/0001/primer-of-coffee/
-  - title: BETTYPLEX
-    description: Life is full of regrets
-    url: https://forbetty.com/
-  - title: Lazy Blog
-    description: 不想当厨子的司机不是好码农
-    url: https://www.weichao.ren/
-  - title: Ton's Blog
-    description: 一个存放笔记的小盒子
-    url: https://ton.tn/
-  - title: cdxy.me
-    description: Cyber Security / Data Science / Trading
-    url: https://www.cdxy.me/
-  - title: topbook
-    description: 高效生活视频书
-    url: http://topbook.cc/
-  - title: 搜百谷
-    description: 网站、编程、软件等
-    url: https://sobaigu.com/
+  links:
+    - title: 《交大生存手册》
+      description: 我们能从大学教育里获得什么？
+      url: https://survivesjtu.gitbook.io/survivesjtumanual/
+    - title: 黄树超
+      description: 嵌入式工程师
+      url: https://www.cnblogs.com/schips/
+    - title: AresX's Blog
+      description: wubba lubba dub dub.
+      url: https://ares-x.com/
+    - title: 城中村群租房
+      description: 一些写得不错的文章
+      url: https://www.darmau.com/
+    - title: read and go
+      description: 一些启发性的随想
+      url: https://unee.wang/
+    - title: 小土刀 2.0
+      description: 一些启发性的随想
+      url: https://wdxtub.com/
+    - title: FROYO's Blog
+      description: 把握现在，拥抱未来
+      url: http://www.izhuyue.com/
+    - title: 李笑来作品集
+      description: 人生的尴尬在于之前决策的时候并不可能有之后那么丰富的经验……
+      url: http://lixiaolai.com/
+    - title: Peng Gu
+      description: Live with less. Share with more.
+      url: https://medium.com/@peng/latest
+    - title: 土木坛子
+      description: 和光同尘，与时舒卷
+      url: https://tumutanzi.com/
+    - title: 技术笔记 - 阳志平的网志
+      description: 致力于认知科学的产品开发、课程设计与科学传播。
+      url: http://www.yangzhiping.com/tech/
+    - title: Jason
+      description: 很有意思的每日随想
+      url: https://atjason.com/
+    - title: 不如
+      description: 码农，程序猿，未来的昏析狮
+      url: http://ibruce.info/
+    - title: 达夕博客
+      description: 关注工作效率/提高生产力/数字化工作/优秀软件
+      url: https://www.daxiblog.com/
+    - title: MADE(by)FRUTOS
+      description: 一些与 Arduino 相关的个人作品
+      url: https://madebyfrutos.wordpress.com/
+    - title: 0miker0's Blog
+      description: Arduino and various other projects
+      url: https://0miker0.wordpress.com/
+    - title: ARuFa の日記
+      description: 脑洞奇大的 DIY 博主
+      url: http://arufa.hatenablog.jp/
+    - title: 稚晖的个人站
+      description: 十年饮冰，难凉热血
+      url: http://pengzhihui.xyz/
+    - title: cevinius
+      description: MobBob 机器人的作者
+      url: https://www.cevinius.com/
+    - title: Do U Find IT?
+      description: 一个有意思的嵌入式博主
+      url: http://www.chaosgoo.com/
+    - title: 小木・年轮
+      description: 一个有趣的技术博客
+      url: http://caiyao.name/
+    - title: 萨摩的部落格
+      description: 掉毛中……
+      url: https://i-meto.com/
+    - title: reuixiy
+      description: 一个技术博客
+      url: https://io-oi.me/
+    - title: Moorez
+      description: 一个技术博客
+      url: http://shenzekun.cn/
+    - title: ookamiAntD's Blog
+      description: Easy codingeasy life.
+      url: https://yangbingdong.com/
+    - title: IT草根
+      description: 有意思的随想
+      url: http://codepub.cn/
+    - title: 无垠
+      description: 飞翔的天空无限大
+      url: https://img.flyhigher.top/wp-content/uploads/2017/01/cropped-touch-1.png?imageView2/1/w/64/h/64/interlace/1/q/90#
+    - title: 木木木木木
+      description: 有意思的技术博客
+      url: https://immmmm.com/
+    - title: Colmugx's Blog
+      description: 让一切充满想象力
+      url: https://colmugx.github.io/blog/
+    - title: 始终
+      description: 不忘初心
+      url: https://liam.page/
+    - title: 裂帛碎玉的想法
+      description: 有意思的技术博客
+      url: https://blog.vvzero.com/
+    - title: MAYBEIWILL
+      description: 有意思的随想
+      url: https://maybeiwill.me/
+    - title: 也而的博客
+      description: 在天涯和海角 放石头和葡萄
+      url: https://zoomyale.com/
+    - title: Spencer's Blog
+      description: 阿巴阿巴 o ((>ω<)) o
+      url: https://blog.spencerwoo.com/
+    - title: JeeH
+      description: Headers for framework- and platform-agnostic code
+      url: https://jeelabs.org/projects/jeeh/
+    - title: LT
+      description: Revolutionary Road
+      url: http://blog.davidrobot.com/
+    - title: 林海草原
+      description: 一些有意思的随想
+      url: https://lhcy.org/
+    - title: 何世友的日志
+      description: 一些有意思的杂谈
+      url: https://ernest.me/
+    - title: Matrix67
+      description: 有趣的数学知识
+      url: http://www.matrix67.com/blog/
+    - title: Ja50n - go ahead
+      description: 想什么呢，一直往前走
+      url: https://blog.ulinkmega.com/
+    - title: Liaoyuqin
+      description: Write drunk edit sober. I am a lovely pirate.
+      url: https://www.liaoyuqin.com/
+    - title: 周良粥凉
+      description: 有意思的随想
+      url: https://ericec.cn/
+    - title: 从良未遂
+      description: 有事就做事，没事叼根烟
+      url: https://www.ithmz.com/
+    - title: INFORX
+      description: 技术博客
+      url: https://inforscan.com/
+    - title: MacTalk-池建强的随想录
+      description: 关注技术和人文
+      url: http://macshuo.com/
+    - title: 阮一峰的网络日志
+      description: 技术博客
+      url: http://www.ruanyifeng.com/blog/
+    - title: 千橙工坊
+      description: 做有温度的金融科技
+      url: https://www.qiancheng.me/
+    - title: 掘墓人的小铲子
+      description: 有意思的科技文
+      url: https://juemuren4449.com/
+    - title: 咖啡入门书
+      description: 系统了解咖啡的相关知识
+      url: https://kaix.in/0001/primer-of-coffee/
+    - title: BETTYPLEX
+      description: Life is full of regrets
+      url: https://forbetty.com/
+    - title: Lazy Blog
+      description: 不想当厨子的司机不是好码农
+      url: https://www.weichao.ren/
+    - title: Ton's Blog
+      description: 一个存放笔记的小盒子
+      url: https://ton.tn/
+    - title: cdxy.me
+      description: Cyber Security / Data Science / Trading
+      url: https://www.cdxy.me/
+    - title: topbook
+      description: 高效生活视频书
+      url: http://topbook.cc/
+    - title: 搜百谷
+      description: 网站、编程、软件等
+      url: https://sobaigu.com/
