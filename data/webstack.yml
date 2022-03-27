@@ -623,8 +623,14 @@
   list:
     - term: 在线工具
       links:
+        - title: 在线身份证号码生成器
+          description: 生成可供校验的身份证信息，避免实名认证泄露信息
+          url: https://www.suijidaquan.com/shenfenzheng
+        - title: 信用卡生成器
+          description: 生成虚假信用卡卡号数据，避免信息泄露
+          url: https://www.suijidaquan.com/credit-card-generator
         - title: 泛域名证书申请
-          description: 提供 DNSAPI，自助为域名申请证书
+          description: 提供 DNSAPI 自助为域名申请证书
           url: https://ssl.ioiox.com/
         - title: markmap
           description: 在线使用 markdown 绘制思维导图
