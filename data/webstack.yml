@@ -810,6 +810,9 @@
 - taxonomy: 阅读
   icon: linecons-inbox
   links:
+    - title: Z-Library
+      description: 电子书资源第一站
+      url: https://z-lib.org/
     - title: 全国图书馆参考咨询联盟
       description: 最全的中文书籍站点
       url: http://www.ucdrs.superlib.net/
@@ -850,6 +853,9 @@
 - taxonomy: 影视
   icon: linecons-tv
   links:
+    - title: 秋雨分享
+      description: 资源盘
+      url: https://share.laowang.me/
     - title: WebHD.cc
       description: 很多磁力资源
       url: https://webhd.cc/
