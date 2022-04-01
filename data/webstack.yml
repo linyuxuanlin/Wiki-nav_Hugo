@@ -623,6 +623,9 @@
   list:
     - term: 在线工具
       links:
+        - title: 词云统计
+          description: UI 简洁的词云工具
+          url: http://cloud.niucodata.com/
         - title: 在线身份证号码生成器
           description: 生成可供校验的身份证信息，避免实名认证泄露信息
           url: https://www.suijidaquan.com/shenfenzheng
