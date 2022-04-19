@@ -632,6 +632,9 @@
         - title: 词云统计
           description: UI 简洁的词云工具
           url: http://cloud.niucodata.com/
+        - title: 宜家特价榜
+          description: 宜家的特价商品
+          url: https://ikea-lp.netlify.app/
         - title: 在线身份证号码生成器
           description: 生成可供校验的身份证信息，避免实名认证泄露信息
           url: https://www.suijidaquan.com/shenfenzheng
@@ -909,6 +912,9 @@
 - taxonomy: 学术
   icon: linecons-doc
   links:
+    - title: 英语真题在线
+      description: 在线训练真题、(听力)、查词、单词本、练习进度、答案，一步搞定
+      url: https://zhenti.burningvocabulary.com/
     - title: SciHub 学术导航
       description: 各种学术工具
       url: https://www.scihub.net.cn/
