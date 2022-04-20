@@ -914,6 +914,15 @@
     - title: The Infinite Drum Machine
       description: 用日常的声音创造鼓点
       url: https://experiments.withgoogle.com/ai/drum-machine/view/
+    - title: ScorSer
+      description: 有将近 6 万钢琴独奏、合奏的谱库，包括古典流行
+      url: http://en.instr.scorser.com/M.html
+    - title: 国际乐谱库
+      description: 世界各地的院校、用户、博物馆共同分享版权已公开的各种原版古典音乐谱
+      url: https://cn.imslp.org/wiki/Main_Page
+    - title: DIGITAL MOZART EDITION
+      description: 莫扎特乐谱库
+      url: https://dme.mozarteum.at/DME/nma/nmapub_srch.php?l=2
 
 - taxonomy: 学术
   icon: linecons-doc
