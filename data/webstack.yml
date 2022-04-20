@@ -106,6 +106,12 @@
 
     - term: 论坛 / 个人博客
       links:
+        - title: EEVblog Electronics Community Forum
+          description: EEVblog 的论坛
+          url: https://www.eevblog.com/forum/
+        - title: WhyCan Forum
+          description: 挖坑网
+          url: https://whycan.com/forumlist.php
         - title: MUSE LAB
           description: 开源，创意，分享
           url: https://www.muselab-tech.com/
@@ -115,9 +121,6 @@
         - title: 硬件设计 · 面包板
           description: 面包板社区论坛
           url: https://mbb.eet-china.com/forum.php?gid=66
-        - title: WhyCan Forum
-          description: 挖坑网
-          url: https://whycan.com/forumlist.php
         - title: MaZhaoxin's Blog
           description: Keep thinking, keep moving
           url: https://mazhaoxin.github.io/
