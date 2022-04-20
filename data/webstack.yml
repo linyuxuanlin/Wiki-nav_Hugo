@@ -211,6 +211,9 @@
         - title: Seeed Wiki
           description: Seeed 的开源产品文档
           url: https://wiki.seeedstudio.com/
+        - title: TemplateDesigns · ALTIUM
+          description: AD 提供的版型模板（PCIe 等）
+          url: https://designcontent.live.altium.com/#TemplateDesigns
         - title: ALTIUM DESIGNER PROJECTS
           description: AD 开源项目
           url: http://huiwenedn.com/projects.html
