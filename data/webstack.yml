@@ -638,6 +638,9 @@
         - title: 词云统计
           description: UI 简洁的词云工具
           url: http://cloud.niucodata.com/
+        - title: Online 3D Viewer
+          description: 在线 3D 模型查看器，可嵌入网站
+          url: https://3dviewer.net/index.html
         - title: 宜家特价榜
           description: 宜家的特价商品
           url: https://ikea-lp.netlify.app/
