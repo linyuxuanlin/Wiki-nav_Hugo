@@ -115,6 +115,9 @@
         - title: MUSE LAB
           description: 开源，创意，分享
           url: https://www.muselab-tech.com/
+        - title: Kitspace
+          description: 开源 PCB 项目分享
+          url: https://kitspace.org/
         - title: 小浩很可喜
           description: 硬件相关的博客
           url: https://iot-me.club/
