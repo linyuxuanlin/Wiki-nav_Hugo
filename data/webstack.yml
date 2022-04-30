@@ -106,15 +106,27 @@
 
     - term: 论坛 / 个人博客
       links:
-        - title: MUSE LAB
-          description: 开源，创意，分享
-          url: https://www.muselab-tech.com/
-        - title: 硬件设计 · 面包板
-          description: 面包板社区论坛
-          url: https://mbb.eet-china.com/forum.php?gid=66
+        - title: EEVblog Electronics Community Forum
+          description: EEVblog 的论坛
+          url: https://www.eevblog.com/forum/
         - title: WhyCan Forum
           description: 挖坑网
           url: https://whycan.com/forumlist.php
+        - title: MUSE LAB
+          description: 开源，创意，分享
+          url: https://www.muselab-tech.com/
+        - title: Kitspace
+          description: 开源 PCB 项目分享
+          url: https://kitspace.org/
+        - title: Techblog of Olvk
+          description: 电力电子、模拟相关的个人博客
+          url: http://www.oliverkung.top/
+        - title: 小浩很可喜
+          description: 硬件相关的博客
+          url: https://iot-me.club/
+        - title: 硬件设计 · 面包板
+          description: 面包板社区论坛
+          url: https://mbb.eet-china.com/forum.php?gid=66
         - title: MaZhaoxin's Blog
           description: Keep thinking, keep moving
           url: https://mazhaoxin.github.io/
@@ -205,6 +217,9 @@
         - title: Seeed Wiki
           description: Seeed 的开源产品文档
           url: https://wiki.seeedstudio.com/
+        - title: TemplateDesigns · ALTIUM
+          description: AD 提供的版型模板（PCIe 等）
+          url: https://designcontent.live.altium.com/#TemplateDesigns
         - title: ALTIUM DESIGNER PROJECTS
           description: AD 开源项目
           url: http://huiwenedn.com/projects.html
@@ -632,6 +647,9 @@
         - title: 词云统计
           description: UI 简洁的词云工具
           url: http://cloud.niucodata.com/
+        - title: Online 3D Viewer
+          description: 在线 3D 模型查看器，可嵌入网站
+          url: https://3dviewer.net/index.html
         - title: 宜家特价榜
           description: 宜家的特价商品
           url: https://ikea-lp.netlify.app/
@@ -908,6 +926,15 @@
     - title: The Infinite Drum Machine
       description: 用日常的声音创造鼓点
       url: https://experiments.withgoogle.com/ai/drum-machine/view/
+    - title: ScorSer
+      description: 有将近 6 万钢琴独奏、合奏的谱库，包括古典流行
+      url: http://en.instr.scorser.com/M.html
+    - title: 国际乐谱库
+      description: 世界各地的院校、用户、博物馆共同分享版权已公开的各种原版古典音乐谱
+      url: https://cn.imslp.org/wiki/Main_Page
+    - title: DIGITAL MOZART EDITION
+      description: 莫扎特乐谱库
+      url: https://dme.mozarteum.at/DME/nma/nmapub_srch.php?l=2
 
 - taxonomy: 学术
   icon: linecons-doc
@@ -937,6 +964,9 @@
     - title: 《交大生存手册》
       description: 我们能从大学教育里获得什么？
       url: https://survivesjtu.gitbook.io/survivesjtumanual/
+    - title: STANLEYPROJECTS
+      description: A maker's blog
+      url: https://stanleyprojects.com/
     - title: 黄树超
       description: 嵌入式工程师
       url: https://www.cnblogs.com/schips/
