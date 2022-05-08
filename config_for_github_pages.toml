@@ -1,5 +1,5 @@
 # Settings
-baseurl = "http://example.org/"
+baseurl = "https://kc0bfv.github.io/autophugo/"
 languageCode = "en-us"
 title = "AutoPhugo"
 theme = "autophugo"
