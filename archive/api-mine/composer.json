@@ -1,0 +1,5 @@
+{
+    "require": {
+        "edsdk/flmngr-server-php": "^1.1"
+    }
+}
