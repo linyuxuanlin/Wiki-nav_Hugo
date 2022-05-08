@@ -1,7 +1,7 @@
 baseURL = "https://nav.wiki-power.com/"
 languageCode = "zh-CN"
-title = "Power's Works"
-theme = "autophugo"
+title = "Power's Nav"
+theme = "webstack-hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
