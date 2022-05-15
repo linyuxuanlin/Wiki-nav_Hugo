@@ -190,8 +190,11 @@
         - title: EDA365 在线工具
           description: 在线电路计算（阻抗、载流）
           url: https://www.eda365.com/eda365libs/edacalc/
+        - title: EveryCircuit
+          description: 强大的电路在线仿真工具
+          url: https://everycircuit.com/app
         - title: CircuitJS
-          description: 电路在线仿真工具
+          description: 简单的电路在线仿真工具
           url: http://www.falstad.com/circuit/circuitjs.html
         - title: Examples · CircuitJS
           description: CircuitJS 的典型电路详细介绍
