@@ -169,6 +169,9 @@
 
     - term: 硬件设计工具
       links:
+        - title: Microwaves101
+          description: 囊括射频相关的百科、计算工具、资源下载的网站
+          url: https://www.microwaves101.com/
         - title: 傅里叶变换交互式入门
           description: 通过交互式动画直观了解傅里叶变换
           url: https://www.jezzamon.com/fourier/zh-cn.html
@@ -926,6 +929,9 @@
     - title: MP3 PAW
       description: 在线下载 MP3 资源
       url: https://mp3paw.com/
+    - title: Sheet Music Download
+      description: 免费曲谱下载
+      url: https://www.sheetmusicdownload.in/
     - title: MuseScore
       description: 在线曲谱搜索
       url: https://musescore.com/
