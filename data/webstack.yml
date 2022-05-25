@@ -494,6 +494,9 @@
   list:
     - term: 工具
       links:
+        - title: qrbtf.com
+          description: 参数化二维码生成器
+          url: https://qrbtf.com/
         - title: 创造狮导航
           description: 一个设计资源网站大全
           url: http://chuangzaoshi.com/
