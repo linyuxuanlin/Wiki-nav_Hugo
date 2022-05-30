@@ -172,6 +172,9 @@
         - title: Microwaves101
           description: 囊括射频相关的百科、计算工具、资源下载的网站
           url: https://www.microwaves101.com/
+        - title: SimSmith
+          description: 交互式射频电路分析软件
+          url: http://www.ae6ty.com/smith_charts.html
         - title: 傅里叶变换交互式入门
           description: 通过交互式动画直观了解傅里叶变换
           url: https://www.jezzamon.com/fourier/zh-cn.html
