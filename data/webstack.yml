@@ -175,6 +175,9 @@
         - title: SimSmith
           description: 交互式射频电路分析软件
           url: http://www.ae6ty.com/smith_charts.html
+        - title: Verilog 题库
+          description: 在线 Verilog 题库
+          url: https://www.nowcoder.com/exam/oj?page=1&tab=Verilog%E7%AF%87&topicId=301
         - title: Digi-Key Innovation Handbook
           description: 很全的电子设计知识库
           url: https://www.digikey.com/en/resources/innovation-handbook
