@@ -503,6 +503,9 @@
   list:
     - term: 工具
       links:
+        - title: Remover.app
+          description: 基于 AI 的图片元素抹除工具
+          url: https://remover.zmo.ai/
         - title: qrbtf.com
           description: 参数化二维码生成器
           url: https://qrbtf.com/
