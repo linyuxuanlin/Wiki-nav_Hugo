@@ -674,6 +674,9 @@
   list:
     - term: 在线工具
       links:
+        - title: 租房搜索助手
+          description: 收集了豆瓣等平台的租房信息，呈现并支持搜索
+          url: http://uz.yurixu.com/manage/shanghai.php
         - title: 词云统计
           description: UI 简洁的词云工具
           url: http://cloud.niucodata.com/
