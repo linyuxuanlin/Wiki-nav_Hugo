@@ -506,9 +506,6 @@
   list:
     - term: 工具
       links:
-        - title: 清图
-          description: 图片无损放大、抠图、证件照、着色工具
-          url: https://qingtu.cn/
         - title: Remover.app
           description: 基于 AI 的图片元素抹除工具
           url: https://remover.zmo.ai/
