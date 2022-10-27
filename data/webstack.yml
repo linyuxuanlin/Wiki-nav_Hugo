@@ -971,6 +971,9 @@
     - title: DIGITAL MOZART EDITION
       description: 莫扎特乐谱库
       url: https://dme.mozarteum.at/DME/nma/nmapub_srch.php?l=2
+    - title: MUSIC · HARUKI MURAKAMI
+      description: 收纳了村上春树小说里的古典、爵士、摇滚音乐
+      url: https://www.harukimurakami.com/resource_category/playlist
 
 - taxonomy: 生活
   icon: linecons-cup
