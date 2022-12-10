@@ -4,15 +4,6 @@
     - title: Power's Wiki
       description: 我的站点
       url: https://wiki-power.com/
-    - title: Seeed
-      description: Seeed Wiki
-      url: https://wiki.seeedstudio.com/
-    - title: 野狼队知识库
-      description: 公开知识库
-      url: https://wiki.wildwolf.pw/
-    - title: 野狼博客导航
-      description: 队员们的博客收录
-      url: https://nav.wildwolf.pw/
     - title: WAI 科技社
       description: 博中朋友们的科技社
       url: https://www.waitech.cn/
@@ -76,13 +67,12 @@
     - title: 渣渣晖の博客
       description: 热爱可抵岁月漫长
       url: https://zhenhuizhang.tk
-    - title: IAMLIUBO
-      description: 一个软硬皆施的 Maker
-      url: https://blogs.oopswow.com/
-    - title: 编码书生博客
-      description: 有好多不错的智能家居教程
-      url: https://blogs.oopswow.com/
-
+    - title: 野狼队知识库
+      description: 公开知识库
+      url: https://wiki.wildwolf.pw/
+    - title: 野狼博客导航
+      description: 队员们的博客收录
+      url: https://nav.wildwolf.pw/
 - taxonomy: 电路设计
   icon: linecons-beaker
   list:
@@ -456,6 +446,12 @@
         - title: 0miker0's Blog
           description: 一些与 ESP8266/OLED 相关的项目
           url: https://0miker0.wordpress.com
+        - title: IAMLIUBO
+          description: 一个软硬皆施的 Maker
+          url: https://blogs.oopswow.com/
+         - title: 编码书生博客
+          description: 有好多不错的智能家居教程
+          url: https://blogs.oopswow.com/
     - term: 3D 打印相关
       links:
         - title: Thingiverse
