@@ -73,6 +73,9 @@
     - title: 野狼博客导航
       description: 队员们的博客收录
       url: https://nav.wildwolf.pw/
+    - title: JiPai Store
+      description: 世界之大，鸽子何时会再驻足于此？
+      url: https://www.JiPai.moe
 - taxonomy: 电路设计
   icon: linecons-beaker
   list:
