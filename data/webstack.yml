@@ -81,8 +81,9 @@
       url: https://www.howie6879.cn/
       
 
-    - term: 中文博客榜单
-      links: 
+- taxonomy: 我的朋友们
+  icon: linecons-star
+  links:
         - title: 中文博客琅琊榜
           description: 
           url: https://github.com/qianguyihao/blog-list
@@ -122,6 +123,9 @@
         - title: TUNA Blogroll
           description: 世界一流兼容并包 TUNA 协会收集的周围同学们的 Blog
           url: https://github.com/tuna/blogroll
+        - title: 摸鱼派
+          description: 
+          url: https://fishpi.cn/
 
       
 - taxonomy: 电路设计
