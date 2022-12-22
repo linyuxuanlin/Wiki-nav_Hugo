@@ -99,8 +99,11 @@
           description: 发现优秀的个人博客
           url: https://bf.zzxworld.com/
         - title: 十年之约
-          description: 一个人的寂寞，一群人的狂欢。
+          description: 一个人的寂寞，一群人的狂欢
           url: https://www.foreverblog.cn/
+        - title: 十年之约·论坛 
+          description: 中文独立博客交流论坛
+          url: https://bbs.sn/
         - title: 博客志
           description: 优秀个人独立博客导航
           url: http://www.jetli.com.cn/
