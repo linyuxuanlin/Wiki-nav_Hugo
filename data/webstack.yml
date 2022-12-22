@@ -81,8 +81,8 @@
       url: https://www.howie6879.cn/
       
 
-- taxonomy: 我的朋友们
-  icon: linecons-star
+- taxonomy: 中文博客榜单
+  icon: linecons-blogger
   links:
         - title: 中文博客琅琊榜
           description: 
