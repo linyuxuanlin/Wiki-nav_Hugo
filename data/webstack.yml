@@ -79,6 +79,9 @@
     - title: 老胡的储物柜
       description: 编程、兴趣、生活
       url: https://www.howie6879.cn/
+    - title: Jimmy Tian's Blog
+      description: Jimmy's Notebook
+      url: https://www.jimmytian.com/
 - taxonomy: 电路设计
   icon: linecons-beaker
   list:
@@ -986,7 +989,6 @@
     - title: 菜谱
       description: 简约的菜谱
       url: https://zhongkui.org/cn/recipe/
-
 
 - taxonomy: 学术
   icon: linecons-graduation-cap
