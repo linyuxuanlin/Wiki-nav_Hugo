@@ -82,6 +82,9 @@
     - title: Jimmy Tian's Blog
       description: Jimmy's Notebook
       url: https://www.jimmytian.com/
+    - title: Images' Blog
+      description: Software | Elon Z
+      url: https://imageslr.com/
 
 - taxonomy: 中文博客榜单
   icon: linecons-note
@@ -114,8 +117,8 @@
       description:
       url: https://github.com/timqian/chinese-independent-blogs
     - title: 博客 & 播客存档
-      description: https://box.othing.xyz/
-      url:
+      description: 
+      url: https://box.othing.xyz/
     - title: alaskasquirrel/Chinese-Podcasts
       description: 中文播客列表
       url: https://github.com/alaskasquirrel/Chinese-Podcasts
@@ -125,9 +128,6 @@
     - title: TUNA Blogroll
       description: 世界一流兼容并包 TUNA 协会收集的周围同学们的 Blog
       url: https://github.com/tuna/blogroll
-    - title: 摸鱼派
-      description:
-      url: https://fishpi.cn/
 
 - taxonomy: 电路设计
   icon: linecons-beaker
