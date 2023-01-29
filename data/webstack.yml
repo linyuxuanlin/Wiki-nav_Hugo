@@ -558,6 +558,9 @@
   list:
     - term: 工具
       links:
+        - title: ARC 图形实验室
+          description: 腾讯 ARC 实验室，有人像抠图、图像增强工具
+          url: https://arc.tencent.com/zh/ai-demos/imgRestore
         - title: Remover.app
           description: 基于 AI 的图片元素抹除工具
           url: https://remover.zmo.ai/
@@ -726,6 +729,9 @@
   list:
     - term: 在线工具
       links:
+        - title: 文涌（Effidit）
+          description: 文章改写和检查错误的工具
+          url: https://effidit.qq.com/demo
         - title: 租房搜索助手
           description: 收集了豆瓣等平台的租房信息，呈现并支持搜索
           url: http://uz.yurixu.com/manage/shanghai.php
