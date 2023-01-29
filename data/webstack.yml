@@ -558,9 +558,6 @@
   list:
     - term: 工具
       links:
-        - title: ARC 图形实验室
-          description: 腾讯 ARC 实验室，有人像抠图、图像增强工具
-          url: https://arc.tencent.com/zh/ai-demos/imgRestore
         - title: Remover.app
           description: 基于 AI 的图片元素抹除工具
           url: https://remover.zmo.ai/
@@ -684,26 +681,6 @@
 - taxonomy: 软件开发
   icon: linecons-desktop
   list:
-    - term: 网站主题
-      links:
-        - title: App Manifest Generator
-          description: 在线生成 Manifest
-          url: https://app-manifest.firebaseapp.com/
-        - title: Startpage
-          description: 看板 - Hugo 主题
-          url: https://themes.gohugo.io/hugo-startpage-theme/
-        - title: DevResume
-          description: 简历 - Hugo 主题
-          url: https://themes.gohugo.io/hugo-devresume-theme/
-        - title: Gatsby Portfolio
-          description: 个人项目主页 - Gatsby 主题
-          url: https://portfolio.smakosh.com/
-        - title: Creative portfolio
-          description: 信息流 - Hugo 主题
-          url: https://themes.gohugo.io/hugo-creative-portfolio-theme/
-        - title: Docsy
-          description: 文档站 - Hugo 主题
-          url: https://themes.gohugo.io/docsy/
     - term: 工具
       links:
         - title: W3School
@@ -727,20 +704,74 @@
 - taxonomy: 工具
   icon: linecons-cog
   list:
-    - term: 在线工具
+    - term: 博客工具
       links:
+        - title: Google Analytics
+          description: 谷歌网站分析
+          url: https://analytics.google.com/
+        - title: Google Search Console Tools
+          description: 谷歌搜索 SEO
+          url: https://search.google.com/search-console?utm_source=about-page
+        - title: Bing Webmaster Tools
+          description: 必应搜索 SEO
+          url: https://www.bing.com/webmasters/home
+        - title: 百度搜索资源平台
+          description: 百度搜索 SEO
+          url: https://ziyuan.baidu.com/dashboard/
         - title: 文涌（Effidit）
           description: 文章改写和检查错误的工具
           url: https://effidit.qq.com/demo
+        - title: Online 3D Viewer
+          description: 在线 3D 模型查看器，可嵌入网站
+          url: https://3dviewer.net/index.html
+        - title: 泛域名证书申请
+          description: 提供 DNSAPI 自助为域名申请证书
+          url: https://ssl.ioiox.com/
+        - title: AI 人工智能图片放大
+          description: 让图片更清晰
+          url: http://bigjpg.com/
+        - title: MD2WeChat
+          description: Markdown 转富文本格式，公众号发文专用
+          url: https://linyuxuanlin.github.io/MD2WeChat/
+        - title: ARC 图形实验室
+          description: 腾讯 ARC 实验室，有人像抠图、图像增强工具
+          url: https://arc.tencent.com/zh/ai-demos/imgRestore
+        - title: TinyPNG
+          description: 在线图片压缩
+          url: https://tinypng.com/
+        - title: GTmetrix
+          description: 网站加载速度测试
+          url: https://gtmetrix.com/
+        - title: markmap
+          description: 在线使用 markdown 绘制思维导图
+          url: https://markmap.js.org/repl
+        - title: App Manifest Generator
+          description: 在线生成 Manifest
+          url: https://app-manifest.firebaseapp.com/
+        - title: Startpage
+          description: 看板 - Hugo 主题
+          url: https://themes.gohugo.io/hugo-startpage-theme/
+        - title: DevResume
+          description: 简历 - Hugo 主题
+          url: https://themes.gohugo.io/hugo-devresume-theme/
+        - title: Gatsby Portfolio
+          description: 个人项目主页 - Gatsby 主题
+          url: https://portfolio.smakosh.com/
+        - title: Creative portfolio
+          description: 信息流 - Hugo 主题
+          url: https://themes.gohugo.io/hugo-creative-portfolio-theme/
+        - title: Docsy
+          description: 文档站 - Hugo 主题
+          url: https://themes.gohugo.io/docsy/
+
+    - term: 在线工具
+      links:
         - title: 租房搜索助手
           description: 收集了豆瓣等平台的租房信息，呈现并支持搜索
           url: http://uz.yurixu.com/manage/shanghai.php
         - title: 词云统计
           description: UI 简洁的词云工具
           url: http://cloud.niucodata.com/
-        - title: Online 3D Viewer
-          description: 在线 3D 模型查看器，可嵌入网站
-          url: https://3dviewer.net/index.html
         - title: 宜家特价榜
           description: 宜家的特价商品
           url: https://ikea-lp.netlify.app/
@@ -750,12 +781,6 @@
         - title: 信用卡生成器
           description: 生成虚假信用卡卡号数据，避免信息泄露
           url: https://www.suijidaquan.com/credit-card-generator
-        - title: 泛域名证书申请
-          description: 提供 DNSAPI 自助为域名申请证书
-          url: https://ssl.ioiox.com/
-        - title: markmap
-          description: 在线使用 markdown 绘制思维导图
-          url: https://markmap.js.org/repl
         - title: RAWGraphs
           description: 表格自动生成可视化工具
           url: https://app.rawgraphs.io/
@@ -774,9 +799,6 @@
         - title: 快速创建收件夹
           description: 用于向多人收取文件，文件将保存在你的网盘中
           url: http://xzc.cn/
-        - title: AI 人工智能图片放大
-          description: 让图片更清晰
-          url: http://bigjpg.com/
         - title: RSSHub
           description: 万物皆可 RSS
           url: https://docs.rsshub.app/
@@ -801,9 +823,6 @@
         - title: 简答题
           description: 网课答案
           url: http://www.jiandati.com/
-        - title: MD2WeChat
-          description: Markdown 转富文本格式，公众号发文专用
-          url: https://linyuxuanlin.github.io/MD2WeChat/
         - title: 101planners
           description: 提供可打印的日历、活页、任务列表、购物列表等模板
           url: https://www.101planners.com/
@@ -876,12 +895,6 @@
         - title: Gridzzly
           description: 在线生成格点纸
           url: http://gridzzly.com/
-        - title: TinyPNG
-          description: 在线图片压缩
-          url: https://tinypng.com/
-        - title: GTmetrix
-          description: 网站加载速度测试
-          url: https://gtmetrix.com/
         - title: NSEC lab
           description: 定位 IP，分析是否为机器人
           url: https://ip.rtbasia.com/
