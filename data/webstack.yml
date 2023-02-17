@@ -991,6 +991,9 @@
     - title: Internet Archive
       description: 互联网存档
       url: https://archive.org/
+    - title: de🔸digger
+      description: 查找 Google 云盘的公共文件（不限于电子书）
+      url: https://www.dedigger.com/
 
 - taxonomy: 影视
   icon: linecons-tv
