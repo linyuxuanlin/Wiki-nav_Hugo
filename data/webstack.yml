@@ -949,12 +949,15 @@
           description: 下载 Google Play 的 .apk 文件
           url: https://apk-dl.com/
 
-- taxonomy: 阅读
+- taxonomy: 书籍
   icon: linecons-inbox
   links:
     - title: Z-Library
       description: 电子书资源第一站
       url: https://z-lib.org/
+    - title: 中国高校课件下载中心
+      description: 下载大学课本 PDF 的网站
+      url: http://download.cucdc.com/
     - title: 全国图书馆参考咨询联盟
       description: 最全的中文书籍站点
       url: http://www.ucdrs.superlib.net/
@@ -1017,9 +1020,12 @@
       description: 互联网存档
       url: https://archive.org/
 
-- taxonomy: 音乐
+- taxonomy: 音频
   icon: linecons-music
   links:
+    - title: Enhance voice recordings
+      description: Adobe 出的 AI 降噪工具，降低录音中的噪音
+      url: https://podcast.adobe.com/enhance
     - title: Internet Archive
       description: 互联网存档
       url: https://archive.org/
