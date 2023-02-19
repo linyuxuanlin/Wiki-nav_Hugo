@@ -75,6 +75,9 @@
 - taxonomy: AI 工具
   icon: linecons-graduation-cap
   links:
+    - title: DeepL Write 
+      description: 人工智能驱动的写作助手，智能纠错
+      url: https://www.deepl.com/write
     - title: MusicLM
       description: Google 发布的模型，可以根据文字生成音乐，可以指定乐器、节奏、风格、播放场景
       url: https://zhenti.burningvocabulary.com/
