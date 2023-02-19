@@ -1014,6 +1014,9 @@
     - title: Internet Archive
       description: 互联网存档
       url: https://archive.org/
+    - title: 无限制下载器（油猴脚本）
+      description: 能播放的视频，就能下载
+      url: https://www.appinn.com/445751-unlimited-downloader/
 
 - taxonomy: 音频
   icon: linecons-music
