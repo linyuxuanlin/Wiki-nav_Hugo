@@ -751,6 +751,9 @@
         - title: 泛域名证书申请
           description: 提供 DNSAPI 自助为域名申请证书
           url: https://ssl.ioiox.com/
+        - title: DeepL Write 
+          description: 人工智能驱动的写作助手，智能纠错
+          url: https://www.deepl.com/write
         - title: AI 人工智能图片放大
           description: 让图片更清晰
           url: http://bigjpg.com/
