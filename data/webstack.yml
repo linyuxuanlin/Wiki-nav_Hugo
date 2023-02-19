@@ -79,7 +79,7 @@
       description: 人工智能驱动的写作助手，智能纠错
       url: https://www.deepl.com/write
     - title: MusicLM
-      description: Google 发布的模型，可以根据文字生成音乐，可以指定乐器、节奏、风格、播放场景
+      description: Google 出品的模型，可以根据文字生成音乐，可以指定乐器、节奏、风格、播放场景
       url: https://zhenti.burningvocabulary.com/
     - title: Remover.app
       description: 基于 AI 的图片元素抹除工具
@@ -99,6 +99,9 @@
     - title: ARC 图形实验室
       description: 腾讯 ARC 实验室，有人像抠图、图像增强工具
       url: https://arc.tencent.com/zh/ai-demos/imgRestore
+    - title: Enhance voice recordings
+      description: Adobe 出品的 AI 降噪工具，降低录音中的噪音
+      url: https://podcast.adobe.com/enhance
 
 
 - taxonomy: 中文博客榜单
