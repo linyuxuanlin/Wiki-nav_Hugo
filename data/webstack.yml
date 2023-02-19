@@ -1,9 +1,25 @@
+- taxonomy: 我的站点
+  icon: linecons-star
+  links:
+    - title: Wiki
+      description: 知识库
+      url: https://wiki-power.com/
+    - title: Nav
+      description: 友链 & 导航站
+      url: https://nav.wiki-power.com/
+    - title: Digest
+      description: 书摘
+      url: https://digest.wiki-power.com/
+    - title: Nonsense
+      description: 奇思妙想
+      url: https://nonsense.wiki-power.com/
+    - title: Works
+      description: 硬件作品集
+      url: https://works.wiki-power.com/
+
 - taxonomy: 我的朋友们
   icon: linecons-star
   links:
-    - title: Power's Wiki
-      description: 我的站点
-      url: https://wiki-power.com/
     - title: WAI 科技社
       description:
       url: https://www.waitech.cn/
