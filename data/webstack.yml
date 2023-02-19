@@ -5,58 +5,64 @@
       description: 我的站点
       url: https://wiki-power.com/
     - title: WAI 科技社
-      description: 博中朋友们的科技社
+      description: 
       url: https://www.waitech.cn/
-    - title: Maroio's Wiki
-      description: 雨欣
-      url: https://maroiomars.cn/docusaurus-wiki/
+    - title: ZJP's Note
+      description: 
+      url: https://myblog-gamma-olive.vercel.app/
     - title: 白闪 Caldwell
-      description: 朝都
+      description: May the force be with you !
       url: https://www.notion.so/Caldwell-2c981833335b48ac96e84b949a035311
-    - title: 快乐人口无 (๑ŐдŐ)b
-      description: 展鸿
+    - title: Galasu Shoka
+      description: 
       url: https://anshinintakaha.github.io/
     - title: Mingkonic
-      description: 国熙
+      description: 
       url: https://mingkonic.work/
-    - title: Personal Blog
-      description: 焯钧
+    - title: Zhuojun's Blog
+      description: 
       url: https://www.notion.so/Personal-Blog-3faf82f0782d46deb7112e4450bf127f
-    - title: 佳佳鸽的博客
-      description: 佳佳哥
+    - title: 佳佳鸽
+      description: 
       url: https://blog.csdn.net/weixin_43793181
     - title: Rcxxx
-      description: 创新
+      description: Rcxxx's Personal Site
       url: https://sinnammanyo.cn/
     - title: BUG-Hunter 的小星球
-      description: 黄梓凯
+      description: 
       url: https://bug-hunter.baklib-free.com/
-    - title: FQJun’s Blog
-      description: 高佬
+    - title: FQJun's Blog
+      description: 
       url: https://www.fqjun.xyz/
     - title: Unbinilium's 📝
-      description: 湘杰
-      url: https://unbinilium.github.io/
-    - title: Roboppn's Space
-      description: 德港
+      description: 
+      url: https://blog.unbinilium.me/
+    - title: Papani's Home Page
+      description: 
       url: https://roboppn.top/
     - title: 洞二幺拐文档库
-      description: 张阳
+      description: 
       url: https://www.joycekirkland.site/
     - title: 徐玺的博客
-      description: 徐玺
+      description: 
       url: https://www.roboxx.ltd/
-    - title: BOBI83
-      description: Bobi
+    - title: BOBIの小窝
+      description: 见微知著 睹始知终
       url: https://bobi.site/
-    - title: ZJP
-      description: ZJP
-      url: https://myblog-gamma-olive.vercel.app/
+    - title: Maroio's Wiki
+      description: 
+      url: https://maroiomars.cn/docusaurus-wiki/
+    - title: 野狼队知识库
+      description: 公开知识库
+      url: https://wiki.wildwolf.pw/
+    - title: 野狼博客导航
+      description: 队员们的博客收录
+      url: https://nav.wildwolf.pw/
     - title: 一大加贝的博客
-      description: 志同道合的友人
-      url: https://www.yidajiabei.xyz/
+      description: 了解自己，认识世界
+      url: https://tianheg.xyz/
     - title: Ylt's Wiki
-      description: 机器人软硬件全栈工程师
+      description: 
       url: https://www.yltzdhbc.top/
     - title: 求知若饥，知行合一
       description: 一个中科院博士僧的博客（视觉、机器学习、阅读）
@@ -64,12 +70,6 @@
     - title: 渣渣晖の博客
       description: 热爱可抵岁月漫长
       url: https://zhenhuizhang.tk
-    - title: 野狼队知识库
-      description: 公开知识库
-      url: https://wiki.wildwolf.pw/
-    - title: 野狼博客导航
-      description: 队员们的博客收录
-      url: https://nav.wildwolf.pw/
     - title: JiPai Store
       description: 世界之大，鸽子何时会再驻足于此？
       url: https://www.JiPai.moe
