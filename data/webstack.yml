@@ -1066,6 +1066,9 @@
 - taxonomy: 生活
   icon: linecons-cup
   links:
+    - title: 急救指南
+      description: 应急急救指南
+      url: https://m.youlai.cn/jijiu
     - title: 程序员做饭指南
       description: 程序员式的菜谱
       url: https://cook.aiurs.co/
