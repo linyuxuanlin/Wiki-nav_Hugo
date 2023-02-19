@@ -20,12 +20,12 @@
 - taxonomy: 我的朋友们
   icon: linecons-star
   links:
-    - title: WAI 科技社
-      description:
-      url: https://www.waitech.cn/
     - title: ZJP's Note
       description:
       url: https://myblog-gamma-olive.vercel.app/
+    - title: WAI 科技社
+      description:
+      url: https://www.waitech.cn/
     - title: 白闪 Caldwell
       description: May the force be with you !
       url: https://www.notion.so/Caldwell-2c981833335b48ac96e84b949a035311
