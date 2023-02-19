@@ -71,30 +71,32 @@
       description: Software | Elon Z
       url: https://imageslr.com/
 
+
 - taxonomy: AI 工具
   icon: linecons-graduation-cap
   links:
     - title: MusicLM
       description: Google 发布的模型，可以根据文字生成音乐，可以指定乐器、节奏、风格、播放场景
       url: https://zhenti.burningvocabulary.com/
-    - title: 
-      description: 
-      url: 
-    - title: 
-      description: 
-      url: 
-    - title: 
-      description: 
-      url: 
-    - title: 
-      description: 
-      url: 
-    - title: 
-      description: 
-      url: 
-    - title: 
-      description: 
-      url: 
+    - title: Remover.app
+      description: 基于 AI 的图片元素抹除工具
+      url: https://remover.zmo.ai/
+    - title: petalica-paint
+      description: 用 AI 为你的画自动上色
+      url: https://petalica-paint.pixiv.dev/index_zh.html
+    - title: AI 人工智能图片放大
+      description: 让图片更清晰
+      url: http://bigjpg.com/
+    - title: Experiments with Google
+      description: Google AI 项目
+      url: https://experiments.withgoogle.com/
+    - title: A.I. Duet
+      description: 让 AI 回奏的钢琴
+      url: https://experiments.withgoogle.com/ai/ai-duet/view/
+    - title: ARC 图形实验室
+      description: 腾讯 ARC 实验室，有人像抠图、图像增强工具
+      url: https://arc.tencent.com/zh/ai-demos/imgRestore
+
 
 - taxonomy: 中文博客榜单
   icon: linecons-note
@@ -1076,6 +1078,9 @@
     - title: MUSIC · HARUKI MURAKAMI
       description: 收纳了村上春树小说里的古典、爵士、摇滚音乐
       url: https://www.harukimurakami.com/resource_category/playlist
+    - title: MusicLM
+      description: Google 发布的模型，可以根据文字生成音乐，可以指定乐器、节奏、风格、播放场景
+      url: https://zhenti.burningvocabulary.com/
 
 - taxonomy: 生活
   icon: linecons-cup
