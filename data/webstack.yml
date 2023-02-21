@@ -20,11 +20,14 @@
 - taxonomy: 我的朋友们
   icon: linecons-star
   links:
+    - title: Shake's BLOG
+      description: 世界继续热闹，愿你不变模样，勇敢且自由
+      url: https://www.shaking.site
     - title: ZJP's Note
       description:
       url: https://myblog-gamma-olive.vercel.app/
     - title: WAI 科技社
-      description:
+      description: Who Am I Science & Technology Club
       url: https://www.waitech.cn/
     - title: 白闪 Caldwell
       description: May the force be with you !
