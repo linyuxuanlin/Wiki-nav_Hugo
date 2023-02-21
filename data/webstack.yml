@@ -20,9 +20,6 @@
 - taxonomy: 我的朋友们
   icon: linecons-star
   links:
-    - title: Shake's BLOG
-      description: 世界继续热闹，愿你不变模样，勇敢且自由
-      url: https://www.shaking.site
     - title: ZJP's Note
       description:
       url: https://myblog-gamma-olive.vercel.app/
@@ -89,6 +86,15 @@
     - title: Images' Blog
       description: Software | Elon Z
       url: https://imageslr.com/
+    - title: Shake's BLOG
+      description: 世界继续热闹，愿你不变模样，勇敢且自由
+      url: https://www.shaking.site
+    - title: GY`s blog
+      description: 
+      url: https://cvgy.top/
+    - title: 阿囧
+      description: 
+      url: https://www.yuque.com/ajiong-hwcyf
 
 
 - taxonomy: AI 工具
@@ -1163,9 +1169,9 @@
     - title: AresX's Blog
       description: wubba lubba dub dub.
       url: https://ares-x.com/
-    - title: 城中村群租房
-      description: 一些写得不错的文章
-      url: https://www.darmau.com/
+    #- title: 城中村群租房
+    #  description: 一些写得不错的文章
+    #  url: https://www.darmau.com/
     - title: read and go
       description: 一些启发性的随想
       url: https://unee.wang/
