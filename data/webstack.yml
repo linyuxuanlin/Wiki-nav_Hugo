@@ -1048,18 +1048,12 @@
 - taxonomy: 影视
   icon: linecons-tv
   links:
-    - title: 秋雨分享
-      description: 资源盘
-      url: https://share.laowang.me/
     - title: WebHD.cc
-      description: 很多磁力资源
+      description: 磁力资源
       url: https://webhd.cc/
     - title: 人人影视资源
-      description: 磁力资源等
+      description: 磁力资源
       url: https://yyets.dmesg.app/search
-    - title: 磁力岛
-      description: 查找磁力资源
-      url: https://bt000.xyz/
     - title: Webtor
       description: 在线播放磁力
       url: https://webtor.io/
