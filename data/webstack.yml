@@ -127,7 +127,9 @@
     - title: Enhance voice recordings
       description: Adobe 出品的 AI 降噪工具，降低录音中的噪音
       url: https://podcast.adobe.com/enhance
-
+    - title: ChatPDF
+      description: Chat with any PDF
+      url: https://www.chatpdf.com/
 
 - taxonomy: 中文博客榜单
   icon: linecons-note
