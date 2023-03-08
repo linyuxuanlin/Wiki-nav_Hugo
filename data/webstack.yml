@@ -1053,6 +1053,9 @@
 - taxonomy: 影视
   icon: linecons-tv
   links:
+    - title: 阿里云盘资源分享
+      description: 有很多影视资源
+      url: https://slowread.net/ali.html
     - title: WebHD.cc
       description: 磁力资源
       url: https://webhd.cc/
