@@ -130,6 +130,9 @@
     - title: ChatPDF
       description: Chat with any PDF
       url: https://www.chatpdf.com/
+    - title: openai-translator
+      description: 基于 ChatGPT API 的划词翻译 Chrome 插件
+      url: https://github.com/yetone/openai-translator
 
 - taxonomy: 中文博客榜单
   icon: linecons-note
