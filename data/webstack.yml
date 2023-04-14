@@ -90,17 +90,16 @@
       description: 世界继续热闹，愿你不变模样，勇敢且自由
       url: https://www.shaking.site
     - title: GY`s blog
-      description: 
+      description:
       url: https://cvgy.top/
     - title: 阿囧
-      description: 
+      description:
       url: https://www.yuque.com/ajiong-hwcyf
-
 
 - taxonomy: AI 工具
   icon: linecons-graduation-cap
   links:
-    - title: DeepL Write 
+    - title: DeepL Write
       description: 人工智能驱动的写作助手，智能纠错
       url: https://www.deepl.com/write
     - title: MusicLM
@@ -784,7 +783,7 @@
         - title: 泛域名证书申请
           description: 提供 DNSAPI 自助为域名申请证书
           url: https://ssl.ioiox.com/
-        - title: DeepL Write 
+        - title: DeepL Write
           description: 人工智能驱动的写作助手，智能纠错
           url: https://www.deepl.com/write
         - title: AI 人工智能图片放大
@@ -1053,6 +1052,9 @@
 - taxonomy: 影视
   icon: linecons-tv
   links:
+    - title: 在线之家
+      description: 比较新的电影、网剧
+      url: https://www.zxzj.pro/
     - title: 阿里云盘资源分享
       description: 有很多影视资源
       url: https://slowread.net/ali.html
