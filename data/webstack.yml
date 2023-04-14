@@ -1122,7 +1122,7 @@
       url: https://www.harukimurakami.com/resource_category/playlist
     - title: MusicLM
       description: Google 发布的模型，可以根据文字生成音乐，可以指定乐器、节奏、风格、播放场景
-      url: https://zhenti.burningvocabulary.com/
+      url: https://google-research.github.io/seanet/musiclm/examples/
 
 - taxonomy: 生活
   icon: linecons-cup
