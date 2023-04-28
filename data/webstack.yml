@@ -567,6 +567,12 @@
         - title: 编码书生博客
           description: 有许多不错的智能家居教程
           url: https://codess.cc/
+        - title: MOHIT BHOITE
+          description: 很棒的无约束形式的电子电路雕塑
+          url: http://www.bhoite.com/sculptures/
+        - title: PikaCircuits
+          description: 一些融合艺术和技术的独特硬件原型
+          url: https://pikacircuits.com/
     - term: 3D 打印相关
       links:
         - title: Thingiverse
