@@ -99,6 +99,10 @@
       description: 运维 SRE、垃圾佬、幻想主义者
       logo: https://drz.ink/favicon.ico
       url: https://drz.ink
+    - title: Hui-Shao's Blog
+      description: Just do it.
+      logo: https://hui-shao.cn/images/avatar.jpg
+      url: https://hui-shao.cn
 
 - taxonomy: AI 工具
   icon: linecons-graduation-cap
