@@ -103,6 +103,9 @@
 - taxonomy: AI 工具
   icon: linecons-graduation-cap
   links:
+    - title: ZeroGPT
+      description: 检测文本是人类编写还是 AI 生成的工具
+      url: https://www.zerogpt.com/
     - title: DeepL Write
       description: 人工智能驱动的写作助手，智能纠错
       url: https://www.deepl.com/write
