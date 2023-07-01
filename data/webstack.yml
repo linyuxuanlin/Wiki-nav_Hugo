@@ -488,15 +488,27 @@
           url: https://wiki.hamzone.cn/s/08f07598-3b02-47d7-a15e-37c3b77a1e32
     - term: Arduino 与树莓派
       links:
+        - title: Arduino Project Hub
+          description: Arduino 社区的项目库
+          url: https://projecthub.arduino.cc/
+        - title: Hackster.io
+          description: 开源硬件社区
+          url: https://www.hackster.io/projects
+        - title: Hackaday.io
+          description: 开源硬件社区
+          url: https://hackaday.io/projects
+        - title: Sparkfun Tutorials
+          description: Sparkfun Arduino 教程库
+          url: https://learn.sparkfun.com/tutorials
+        - title: DF 创客社区
+          description: 一个 Arduino 相关的社区
+          url: https://mc.dfrobot.com.cn/
         - title: 创客导航
           description: 各种周边资源网站
           url: http://mc.dfrobot.com.cn/links/
         - title: Arduino 中文社区
           description: 一个 Arduino 社区
           url: https://www.arduino.cn/
-        - title: Hackster.io
-          description: 一个嵌入式社区
-          url: https://www.hackster.io/projects?ref=topnav
         - title: Arduino 实验室
           description: 一个 Arduino 社区
           url: http://arduino.nxez.com/
@@ -529,24 +541,15 @@
         - title: bildr.blog
           description: 收录一些 Arduino 项目
           url: http://bildr.org
-        - title: DF 创客社区
-          description: 一个 Arduino 相关的社区
-          url: https://mc.dfrobot.com.cn/
         - title: The Custom Geek
           description: 一些有趣的项目
           url: http://thecustomgeek.com/
         - title: How To Mechatronics
           description: Arduino 项目合集
           url: http://howtomechatronics.com/category/projects/page/2/
-        - title: Hackaday.io
-          description: 创客社区
-          url: https://hackaday.io/projects
         - title: Keuwl Electronics
           description: 蓝牙串口 App
           url: http://www.keuwl.com/electronics.html
-        - title: Sparkfun
-          description: Sparkfun Arduino 项目
-          url: https://learn.sparkfun.com/tutorials?page=1
         - title: MAKE IT REAL
           description: 把漫威 DC 道具带到现实
           url: https://www.hacksmith.tech/
