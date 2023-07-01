@@ -478,14 +478,6 @@
         - title: 发明控 · bilibili
           description: ESP8266 / 嵌入式 / 树莓派项目
           url: https://space.bilibili.com/14010836?spm_id_from=333.788.b_765f7570696e666f.1
-    - term: 无线电
-      links:
-        - title: HamZone 社区
-          description: 中国业余无线电爱好者交流社区
-          url: https://bbs.hamzone.cn/
-        - title: HamZone 手册
-          description: 由 HamZone 社区发起的手册共编项目
-          url: https://wiki.hamzone.cn/s/08f07598-3b02-47d7-a15e-37c3b77a1e32
     - term: Arduino 与树莓派
       links:
         - title: Arduino Project Hub
@@ -630,6 +622,14 @@
         - title: All3DP
           description: 3D 模型站
           url: https://all3dp.com/printables/
+    - term: 无线电
+      links:
+        - title: HamZone 社区
+          description: 中国业余无线电爱好者交流社区
+          url: https://bbs.hamzone.cn/
+        - title: HamZone 手册
+          description: 由 HamZone 社区发起的手册共编项目
+          url: https://wiki.hamzone.cn/s/08f07598-3b02-47d7-a15e-37c3b77a1e32
 
 - taxonomy: 软件开发
   icon: linecons-desktop
