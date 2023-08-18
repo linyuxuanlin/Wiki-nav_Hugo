@@ -627,6 +627,9 @@
         - title: All3DP
           description: 3D 模型站
           url: https://all3dp.com/printables/
+        - title: THANGS
+          description: 3D 模型站
+          url: https://thangs.com/
 
 - taxonomy: 软件开发
   icon: linecons-desktop
